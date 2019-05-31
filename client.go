@@ -114,4 +114,4 @@ func NewClient(key string) *APIClient {
 	}
 }
 
-var _ Client = &APIClient{}
+var _ Client = (*APIClient)(nil)
