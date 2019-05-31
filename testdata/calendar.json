@@ -1,0 +1,3626 @@
+{
+    "resultsPage": {
+        "page": 1,
+        "perPage": 50,
+        "results": {
+            "event": [
+                {
+                    "ageRestriction": null,
+                    "displayName": "Lukas Nelson & Promise of the Real and Particle Kid at The Fillmore (May 31, 2019)",
+                    "flaggedAsEnded": false,
+                    "id": 37385204,
+                    "location": {
+                        "city": "San Francisco, CA, US",
+                        "lat": 37.78426,
+                        "lng": -122.4333
+                    },
+                    "performance": [
+                        {
+                            "artist": {
+                                "displayName": "Lukas Nelson & Promise of the Real",
+                                "id": 4537818,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:6f550455-03b6-4bbb-bad8-4f9ad767aad5.json",
+                                        "mbid": "6f550455-03b6-4bbb-bad8-4f9ad767aad5"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/4537818-lukas-nelson-and-promise-of-the-real?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 1,
+                            "displayName": "Lukas Nelson & Promise of the Real",
+                            "id": 71056114
+                        },
+                        {
+                            "artist": {
+                                "displayName": "Particle Kid",
+                                "id": 4006716,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:436d5177-910a-403e-845a-7df8c4d5ca4b.json",
+                                        "mbid": "436d5177-910a-403e-845a-7df8c4d5ca4b"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/4006716-particle-kid?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 2,
+                            "displayName": "Particle Kid",
+                            "id": 72275789
+                        }
+                    ],
+                    "popularity": 0.004536,
+                    "start": {
+                        "date": "2019-05-31",
+                        "datetime": "2019-05-31T21:00:00-0700",
+                        "time": "21:00:00"
+                    },
+                    "status": "ok",
+                    "type": "Concert",
+                    "uri": "http://www.songkick.com/concerts/37385204-lukas-nelson-and-promise-of-the-real-at-fillmore?utm_source=57887&utm_medium=partner",
+                    "venue": {
+                        "displayName": "The Fillmore",
+                        "id": 6239,
+                        "lat": 37.78426,
+                        "lng": -122.4333,
+                        "metroArea": {
+                            "country": {
+                                "displayName": "US"
+                            },
+                            "displayName": "SF Bay Area",
+                            "id": 26330,
+                            "state": {
+                                "displayName": "CA"
+                            },
+                            "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=57887&utm_medium=partner"
+                        },
+                        "uri": "http://www.songkick.com/venues/6239-fillmore?utm_source=57887&utm_medium=partner"
+                    }
+                },
+                {
+                    "ageRestriction": null,
+                    "displayName": "Lukas Nelson & Promise of the Real and Particle Kid at The Fillmore (June 1, 2019)",
+                    "flaggedAsEnded": false,
+                    "id": 37384404,
+                    "location": {
+                        "city": "San Francisco, CA, US",
+                        "lat": 37.78426,
+                        "lng": -122.4333
+                    },
+                    "performance": [
+                        {
+                            "artist": {
+                                "displayName": "Lukas Nelson & Promise of the Real",
+                                "id": 4537818,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:6f550455-03b6-4bbb-bad8-4f9ad767aad5.json",
+                                        "mbid": "6f550455-03b6-4bbb-bad8-4f9ad767aad5"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/4537818-lukas-nelson-and-promise-of-the-real?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 1,
+                            "displayName": "Lukas Nelson & Promise of the Real",
+                            "id": 71054819
+                        },
+                        {
+                            "artist": {
+                                "displayName": "Particle Kid",
+                                "id": 4006716,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:436d5177-910a-403e-845a-7df8c4d5ca4b.json",
+                                        "mbid": "436d5177-910a-403e-845a-7df8c4d5ca4b"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/4006716-particle-kid?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 2,
+                            "displayName": "Particle Kid",
+                            "id": 72274149
+                        }
+                    ],
+                    "popularity": 0.004536,
+                    "start": {
+                        "date": "2019-06-01",
+                        "datetime": "2019-06-01T21:00:00-0700",
+                        "time": "21:00:00"
+                    },
+                    "status": "ok",
+                    "type": "Concert",
+                    "uri": "http://www.songkick.com/concerts/37384404-lukas-nelson-and-promise-of-the-real-at-fillmore?utm_source=57887&utm_medium=partner",
+                    "venue": {
+                        "displayName": "The Fillmore",
+                        "id": 6239,
+                        "lat": 37.78426,
+                        "lng": -122.4333,
+                        "metroArea": {
+                            "country": {
+                                "displayName": "US"
+                            },
+                            "displayName": "SF Bay Area",
+                            "id": 26330,
+                            "state": {
+                                "displayName": "CA"
+                            },
+                            "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=57887&utm_medium=partner"
+                        },
+                        "uri": "http://www.songkick.com/venues/6239-fillmore?utm_source=57887&utm_medium=partner"
+                    }
+                },
+                {
+                    "ageRestriction": null,
+                    "displayName": "A R I Z O N A at The Fillmore (June 2, 2019)",
+                    "flaggedAsEnded": false,
+                    "id": 37459704,
+                    "location": {
+                        "city": "San Francisco, CA, US",
+                        "lat": 37.78426,
+                        "lng": -122.4333
+                    },
+                    "performance": [
+                        {
+                            "artist": {
+                                "displayName": "A R I Z O N A",
+                                "id": 8874234,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:46b9c1ea-a7d1-49fc-a3b9-3a95a33f3a19.json",
+                                        "mbid": "46b9c1ea-a7d1-49fc-a3b9-3a95a33f3a19"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/8874234-a-r-i-z-o-n-a?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 1,
+                            "displayName": "A R I Z O N A",
+                            "id": 71194784
+                        }
+                    ],
+                    "popularity": 0.032976,
+                    "start": {
+                        "date": "2019-06-02",
+                        "datetime": "2019-06-02T20:00:00-0700",
+                        "time": "20:00:00"
+                    },
+                    "status": "ok",
+                    "type": "Concert",
+                    "uri": "http://www.songkick.com/concerts/37459704-a-r-i-z-o-n-a-at-fillmore?utm_source=57887&utm_medium=partner",
+                    "venue": {
+                        "displayName": "The Fillmore",
+                        "id": 6239,
+                        "lat": 37.78426,
+                        "lng": -122.4333,
+                        "metroArea": {
+                            "country": {
+                                "displayName": "US"
+                            },
+                            "displayName": "SF Bay Area",
+                            "id": 26330,
+                            "state": {
+                                "displayName": "CA"
+                            },
+                            "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=57887&utm_medium=partner"
+                        },
+                        "uri": "http://www.songkick.com/venues/6239-fillmore?utm_source=57887&utm_medium=partner"
+                    }
+                },
+                {
+                    "ageRestriction": null,
+                    "displayName": "Marianas Trench with Scott Helman and George Thoms at The Fillmore (June 3, 2019)",
+                    "flaggedAsEnded": false,
+                    "id": 36225379,
+                    "location": {
+                        "city": "San Francisco, CA, US",
+                        "lat": 37.78426,
+                        "lng": -122.4333
+                    },
+                    "performance": [
+                        {
+                            "artist": {
+                                "displayName": "Marianas Trench",
+                                "id": 96444,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:e358276d-4377-4b9b-88dd-db0d17b0e3c6.json",
+                                        "mbid": "e358276d-4377-4b9b-88dd-db0d17b0e3c6"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/96444-marianas-trench?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 1,
+                            "displayName": "Marianas Trench",
+                            "id": 69106999
+                        },
+                        {
+                            "artist": {
+                                "displayName": "Scott Helman",
+                                "id": 8453348,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:37fa9024-b095-4da1-8f10-5e9660291c06.json",
+                                        "mbid": "37fa9024-b095-4da1-8f10-5e9660291c06"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/8453348-scott-helman?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "support",
+                            "billingIndex": 2,
+                            "displayName": "Scott Helman",
+                            "id": 72118699
+                        },
+                        {
+                            "artist": {
+                                "displayName": "George Thoms",
+                                "id": 9094539,
+                                "identifier": [],
+                                "uri": "http://www.songkick.com/artists/9094539-george-thoms?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "support",
+                            "billingIndex": 3,
+                            "displayName": "George Thoms",
+                            "id": 72149979
+                        }
+                    ],
+                    "popularity": 0.028965,
+                    "start": {
+                        "date": "2019-06-03",
+                        "datetime": "2019-06-03T20:00:00-0700",
+                        "time": "20:00:00"
+                    },
+                    "status": "ok",
+                    "type": "Concert",
+                    "uri": "http://www.songkick.com/concerts/36225379-marianas-trench-at-fillmore?utm_source=57887&utm_medium=partner",
+                    "venue": {
+                        "displayName": "The Fillmore",
+                        "id": 6239,
+                        "lat": 37.78426,
+                        "lng": -122.4333,
+                        "metroArea": {
+                            "country": {
+                                "displayName": "US"
+                            },
+                            "displayName": "SF Bay Area",
+                            "id": 26330,
+                            "state": {
+                                "displayName": "CA"
+                            },
+                            "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=57887&utm_medium=partner"
+                        },
+                        "uri": "http://www.songkick.com/venues/6239-fillmore?utm_source=57887&utm_medium=partner"
+                    }
+                },
+                {
+                    "ageRestriction": null,
+                    "displayName": "Devin Townsend Project and Dance With The Dead at The Fillmore (June 6, 2019)",
+                    "flaggedAsEnded": false,
+                    "id": 37078809,
+                    "location": {
+                        "city": "San Francisco, CA, US",
+                        "lat": 37.78426,
+                        "lng": -122.4333
+                    },
+                    "performance": [
+                        {
+                            "artist": {
+                                "displayName": "Devin Townsend Project",
+                                "id": 2439171,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:6e9d417e-7eb1-45dd-af0c-60ac85dfcd7a.json",
+                                        "mbid": "6e9d417e-7eb1-45dd-af0c-60ac85dfcd7a"
+                                    },
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:b00cb756-0259-4a50-bbcb-ad22186c5518.json",
+                                        "mbid": "b00cb756-0259-4a50-bbcb-ad22186c5518"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/2439171-devin-townsend-project?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 1,
+                            "displayName": "Devin Townsend Project",
+                            "id": 70523149
+                        },
+                        {
+                            "artist": {
+                                "displayName": "Dance With The Dead",
+                                "id": 8692778,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:f7ab8acf-e859-468d-b335-d2dcc7671cb1.json",
+                                        "mbid": "f7ab8acf-e859-468d-b335-d2dcc7671cb1"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/8692778-dance-with-the-dead?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 2,
+                            "displayName": "Dance With The Dead",
+                            "id": 70523154
+                        }
+                    ],
+                    "popularity": 0.009883,
+                    "start": {
+                        "date": "2019-06-06",
+                        "datetime": "2019-06-06T19:00:00-0700",
+                        "time": "19:00:00"
+                    },
+                    "status": "ok",
+                    "type": "Concert",
+                    "uri": "http://www.songkick.com/concerts/37078809-devin-townsend-project-at-fillmore?utm_source=57887&utm_medium=partner",
+                    "venue": {
+                        "displayName": "The Fillmore",
+                        "id": 6239,
+                        "lat": 37.78426,
+                        "lng": -122.4333,
+                        "metroArea": {
+                            "country": {
+                                "displayName": "US"
+                            },
+                            "displayName": "SF Bay Area",
+                            "id": 26330,
+                            "state": {
+                                "displayName": "CA"
+                            },
+                            "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=57887&utm_medium=partner"
+                        },
+                        "uri": "http://www.songkick.com/venues/6239-fillmore?utm_source=57887&utm_medium=partner"
+                    }
+                },
+                {
+                    "ageRestriction": null,
+                    "displayName": "Avatar with Devin Townsend at The Fillmore (June 6, 2019)",
+                    "flaggedAsEnded": false,
+                    "id": 37091089,
+                    "location": {
+                        "city": "San Francisco, CA, US",
+                        "lat": 37.78426,
+                        "lng": -122.4333
+                    },
+                    "performance": [
+                        {
+                            "artist": {
+                                "displayName": "Avatar",
+                                "id": 459754,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:a8d77515-f7b7-4d71-9646-8446a3b2a341.json",
+                                        "mbid": "a8d77515-f7b7-4d71-9646-8446a3b2a341"
+                                    },
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:8315a22b-28f1-4435-a4ca-66175f471048.json",
+                                        "mbid": "8315a22b-28f1-4435-a4ca-66175f471048"
+                                    },
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:3baf2454-a759-40e3-ab1b-e9ba6e2fe5cc.json",
+                                        "mbid": "3baf2454-a759-40e3-ab1b-e9ba6e2fe5cc"
+                                    },
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:4a1a6854-0d3f-4f25-a08f-130037759912.json",
+                                        "mbid": "4a1a6854-0d3f-4f25-a08f-130037759912"
+                                    },
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:68cfbdd6-5b82-4ba1-866b-01613acf3e11.json",
+                                        "mbid": "68cfbdd6-5b82-4ba1-866b-01613acf3e11"
+                                    },
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:40e5ebc3-e956-451c-9323-a7484e0bfaa5.json",
+                                        "mbid": "40e5ebc3-e956-451c-9323-a7484e0bfaa5"
+                                    },
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:88ec092b-e7a0-4466-a5c9-84d78f9e2eff.json",
+                                        "mbid": "88ec092b-e7a0-4466-a5c9-84d78f9e2eff"
+                                    },
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:993cf498-5b85-4c1e-b36a-7370195c11e6.json",
+                                        "mbid": "993cf498-5b85-4c1e-b36a-7370195c11e6"
+                                    },
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:d45b0921-9dc8-41d4-a9fb-3d57fd70732c.json",
+                                        "mbid": "d45b0921-9dc8-41d4-a9fb-3d57fd70732c"
+                                    },
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:dc632b59-702e-40fa-a6f8-ff7b90e61487.json",
+                                        "mbid": "dc632b59-702e-40fa-a6f8-ff7b90e61487"
+                                    },
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:f7d09af6-1042-473b-9ca1-b5bbdc2e17f8.json",
+                                        "mbid": "f7d09af6-1042-473b-9ca1-b5bbdc2e17f8"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/459754-avatar?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 1,
+                            "displayName": "Avatar",
+                            "id": 70544574
+                        },
+                        {
+                            "artist": {
+                                "displayName": "Devin Townsend",
+                                "id": 8250113,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:93e8c41e-8e4f-4d08-bbf5-bc1a903b2423.json",
+                                        "mbid": "93e8c41e-8e4f-4d08-bbf5-bc1a903b2423"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/8250113-devin-townsend?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "support",
+                            "billingIndex": 2,
+                            "displayName": "Devin Townsend",
+                            "id": 72564304
+                        }
+                    ],
+                    "popularity": 0.007079,
+                    "start": {
+                        "date": "2019-06-06",
+                        "datetime": null,
+                        "time": null
+                    },
+                    "status": "ok",
+                    "type": "Concert",
+                    "uri": "http://www.songkick.com/concerts/37091089-avatar-at-fillmore?utm_source=57887&utm_medium=partner",
+                    "venue": {
+                        "displayName": "The Fillmore",
+                        "id": 6239,
+                        "lat": 37.78426,
+                        "lng": -122.4333,
+                        "metroArea": {
+                            "country": {
+                                "displayName": "US"
+                            },
+                            "displayName": "SF Bay Area",
+                            "id": 26330,
+                            "state": {
+                                "displayName": "CA"
+                            },
+                            "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=57887&utm_medium=partner"
+                        },
+                        "uri": "http://www.songkick.com/venues/6239-fillmore?utm_source=57887&utm_medium=partner"
+                    }
+                },
+                {
+                    "ageRestriction": null,
+                    "displayName": "Sticky Fingers with Tommy Newport at The Fillmore (June 7, 2019)",
+                    "flaggedAsEnded": false,
+                    "id": 37990909,
+                    "location": {
+                        "city": "San Francisco, CA, US",
+                        "lat": 37.78426,
+                        "lng": -122.4333
+                    },
+                    "performance": [
+                        {
+                            "artist": {
+                                "displayName": "Sticky Fingers",
+                                "id": 127731,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:c6d4b9fd-bea6-4671-bd9a-0423b932ccf8.json",
+                                        "mbid": "c6d4b9fd-bea6-4671-bd9a-0423b932ccf8"
+                                    },
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:8bb5df4a-0fec-4ba7-81af-73e47dbfd3e7.json",
+                                        "mbid": "8bb5df4a-0fec-4ba7-81af-73e47dbfd3e7"
+                                    },
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:7be0c0eb-7ae6-496d-a190-27cebf8b9905.json",
+                                        "mbid": "7be0c0eb-7ae6-496d-a190-27cebf8b9905"
+                                    },
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:1063a13c-9649-4e37-a816-3c0772129aba.json",
+                                        "mbid": "1063a13c-9649-4e37-a816-3c0772129aba"
+                                    },
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:c056382e-e169-413b-95a1-86a780be0e04.json",
+                                        "mbid": "c056382e-e169-413b-95a1-86a780be0e04"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/127731-sticky-fingers?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 1,
+                            "displayName": "Sticky Fingers",
+                            "id": 72128084
+                        },
+                        {
+                            "artist": {
+                                "displayName": "Tommy Newport",
+                                "id": 9556229,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:68590572-3cf5-4d44-a83e-9c77b48adecd.json",
+                                        "mbid": "68590572-3cf5-4d44-a83e-9c77b48adecd"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/9556229-tommy-newport?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "support",
+                            "billingIndex": 2,
+                            "displayName": "Tommy Newport",
+                            "id": 72128089
+                        }
+                    ],
+                    "popularity": 0.033819,
+                    "start": {
+                        "date": "2019-06-07",
+                        "datetime": "2019-06-07T20:00:00-0700",
+                        "time": "20:00:00"
+                    },
+                    "status": "ok",
+                    "type": "Concert",
+                    "uri": "http://www.songkick.com/concerts/37990909-sticky-fingers-at-fillmore?utm_source=57887&utm_medium=partner",
+                    "venue": {
+                        "displayName": "The Fillmore",
+                        "id": 6239,
+                        "lat": 37.78426,
+                        "lng": -122.4333,
+                        "metroArea": {
+                            "country": {
+                                "displayName": "US"
+                            },
+                            "displayName": "SF Bay Area",
+                            "id": 26330,
+                            "state": {
+                                "displayName": "CA"
+                            },
+                            "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=57887&utm_medium=partner"
+                        },
+                        "uri": "http://www.songkick.com/venues/6239-fillmore?utm_source=57887&utm_medium=partner"
+                    }
+                },
+                {
+                    "ageRestriction": null,
+                    "displayName": "Jackie Greene, Cris Jacobs, Bailey Ingle, and The Mother Hips at The Fillmore (June 8, 2019)",
+                    "flaggedAsEnded": false,
+                    "id": 37985659,
+                    "location": {
+                        "city": "San Francisco, CA, US",
+                        "lat": 37.78426,
+                        "lng": -122.4333
+                    },
+                    "performance": [
+                        {
+                            "artist": {
+                                "displayName": "Jackie Greene",
+                                "id": 276645,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:a1a053b3-cad1-43c2-8234-29367a9a42a3.json",
+                                        "mbid": "a1a053b3-cad1-43c2-8234-29367a9a42a3"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/276645-jackie-greene?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 1,
+                            "displayName": "Jackie Greene",
+                            "id": 72118619
+                        },
+                        {
+                            "artist": {
+                                "displayName": "Cris Jacobs",
+                                "id": 2262972,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:f2f4f21b-b79b-4ad9-be87-04b92a53c4da.json",
+                                        "mbid": "f2f4f21b-b79b-4ad9-be87-04b92a53c4da"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/2262972-cris-jacobs?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 2,
+                            "displayName": "Cris Jacobs",
+                            "id": 72118624
+                        },
+                        {
+                            "artist": {
+                                "displayName": "Bailey Ingle",
+                                "id": 9698479,
+                                "identifier": [],
+                                "uri": "http://www.songkick.com/artists/9698479-bailey-ingle?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 3,
+                            "displayName": "Bailey Ingle",
+                            "id": 72118629
+                        },
+                        {
+                            "artist": {
+                                "displayName": "The Mother Hips",
+                                "id": 400816,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:ae97dec5-cbbc-40be-b4d6-6673b660b3d3.json",
+                                        "mbid": "ae97dec5-cbbc-40be-b4d6-6673b660b3d3"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/400816-mother-hips?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 4,
+                            "displayName": "The Mother Hips",
+                            "id": 73216654
+                        }
+                    ],
+                    "popularity": 0.005434,
+                    "start": {
+                        "date": "2019-06-08",
+                        "datetime": "2019-06-08T21:00:00-0700",
+                        "time": "21:00:00"
+                    },
+                    "status": "ok",
+                    "type": "Concert",
+                    "uri": "http://www.songkick.com/concerts/37985659-jackie-greene-at-fillmore?utm_source=57887&utm_medium=partner",
+                    "venue": {
+                        "displayName": "The Fillmore",
+                        "id": 6239,
+                        "lat": 37.78426,
+                        "lng": -122.4333,
+                        "metroArea": {
+                            "country": {
+                                "displayName": "US"
+                            },
+                            "displayName": "SF Bay Area",
+                            "id": 26330,
+                            "state": {
+                                "displayName": "CA"
+                            },
+                            "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=57887&utm_medium=partner"
+                        },
+                        "uri": "http://www.songkick.com/venues/6239-fillmore?utm_source=57887&utm_medium=partner"
+                    }
+                },
+                {
+                    "ageRestriction": null,
+                    "displayName": "Rich the Kid at The Fillmore (June 11, 2019)",
+                    "flaggedAsEnded": false,
+                    "id": 38066594,
+                    "location": {
+                        "city": "San Francisco, CA, US",
+                        "lat": 37.78426,
+                        "lng": -122.4333
+                    },
+                    "performance": [
+                        {
+                            "artist": {
+                                "displayName": "Rich the Kid",
+                                "id": 7549549,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:6d063567-dbf9-4b2a-bd11-1a4450cd93ca.json",
+                                        "mbid": "6d063567-dbf9-4b2a-bd11-1a4450cd93ca"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/7549549-rich-the-kid?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 1,
+                            "displayName": "Rich the Kid",
+                            "id": 72260979
+                        }
+                    ],
+                    "popularity": 0.075476,
+                    "start": {
+                        "date": "2019-06-11",
+                        "datetime": "2019-06-11T20:00:00-0700",
+                        "time": "20:00:00"
+                    },
+                    "status": "ok",
+                    "type": "Concert",
+                    "uri": "http://www.songkick.com/concerts/38066594-rich-the-kid-at-fillmore?utm_source=57887&utm_medium=partner",
+                    "venue": {
+                        "displayName": "The Fillmore",
+                        "id": 6239,
+                        "lat": 37.78426,
+                        "lng": -122.4333,
+                        "metroArea": {
+                            "country": {
+                                "displayName": "US"
+                            },
+                            "displayName": "SF Bay Area",
+                            "id": 26330,
+                            "state": {
+                                "displayName": "CA"
+                            },
+                            "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=57887&utm_medium=partner"
+                        },
+                        "uri": "http://www.songkick.com/venues/6239-fillmore?utm_source=57887&utm_medium=partner"
+                    }
+                },
+                {
+                    "ageRestriction": null,
+                    "displayName": "NLE Choppa at The Fillmore (June 11, 2019)",
+                    "flaggedAsEnded": false,
+                    "id": 38469284,
+                    "location": {
+                        "city": "San Francisco, CA, US",
+                        "lat": 37.78426,
+                        "lng": -122.4333
+                    },
+                    "performance": [
+                        {
+                            "artist": {
+                                "displayName": "NLE Choppa",
+                                "id": 9905799,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:2873b450-13c6-4ca1-8ca3-646c25af3202.json",
+                                        "mbid": "2873b450-13c6-4ca1-8ca3-646c25af3202"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/9905799-nle-choppa?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 1,
+                            "displayName": "NLE Choppa",
+                            "id": 72956399
+                        }
+                    ],
+                    "popularity": 0.00241,
+                    "start": {
+                        "date": "2019-06-11",
+                        "datetime": null,
+                        "time": null
+                    },
+                    "status": "ok",
+                    "type": "Concert",
+                    "uri": "http://www.songkick.com/concerts/38469284-nle-choppa-at-fillmore?utm_source=57887&utm_medium=partner",
+                    "venue": {
+                        "displayName": "The Fillmore",
+                        "id": 6239,
+                        "lat": 37.78426,
+                        "lng": -122.4333,
+                        "metroArea": {
+                            "country": {
+                                "displayName": "US"
+                            },
+                            "displayName": "SF Bay Area",
+                            "id": 26330,
+                            "state": {
+                                "displayName": "CA"
+                            },
+                            "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=57887&utm_medium=partner"
+                        },
+                        "uri": "http://www.songkick.com/venues/6239-fillmore?utm_source=57887&utm_medium=partner"
+                    }
+                },
+                {
+                    "ageRestriction": null,
+                    "displayName": "Patty Griffin and John Smith at The Fillmore (June 12, 2019)",
+                    "flaggedAsEnded": false,
+                    "id": 37783609,
+                    "location": {
+                        "city": "San Francisco, CA, US",
+                        "lat": 37.78426,
+                        "lng": -122.4333
+                    },
+                    "performance": [
+                        {
+                            "artist": {
+                                "displayName": "Patty Griffin",
+                                "id": 183590,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:6fddcfc3-20b6-48d0-87ba-8211eca3420c.json",
+                                        "mbid": "6fddcfc3-20b6-48d0-87ba-8211eca3420c"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/183590-patty-griffin?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 1,
+                            "displayName": "Patty Griffin",
+                            "id": 71766484
+                        },
+                        {
+                            "artist": {
+                                "displayName": "John Smith",
+                                "id": 413583,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:477b8e5e-bf45-4e6d-b3e8-4dc1e6c5c9ba.json",
+                                        "mbid": "477b8e5e-bf45-4e6d-b3e8-4dc1e6c5c9ba"
+                                    },
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:77a1c579-3532-491c-86bd-595ddd4780cc.json",
+                                        "mbid": "77a1c579-3532-491c-86bd-595ddd4780cc"
+                                    },
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:03df380a-665d-48c6-9cee-90c53f40ec3b.json",
+                                        "mbid": "03df380a-665d-48c6-9cee-90c53f40ec3b"
+                                    },
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:4fe1a7d2-3707-4817-b934-9731edf65a7f.json",
+                                        "mbid": "4fe1a7d2-3707-4817-b934-9731edf65a7f"
+                                    },
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:878cd6bf-a164-4a02-bd20-52a8b2938545.json",
+                                        "mbid": "878cd6bf-a164-4a02-bd20-52a8b2938545"
+                                    },
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:80090861-b1c3-4521-b5c9-db8558f1b651.json",
+                                        "mbid": "80090861-b1c3-4521-b5c9-db8558f1b651"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/413583-john-smith?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 2,
+                            "displayName": "John Smith",
+                            "id": 72377849
+                        }
+                    ],
+                    "popularity": 0.019997,
+                    "start": {
+                        "date": "2019-06-12",
+                        "datetime": "2019-06-12T20:00:00-0700",
+                        "time": "20:00:00"
+                    },
+                    "status": "ok",
+                    "type": "Concert",
+                    "uri": "http://www.songkick.com/concerts/37783609-patty-griffin-at-fillmore?utm_source=57887&utm_medium=partner",
+                    "venue": {
+                        "displayName": "The Fillmore",
+                        "id": 6239,
+                        "lat": 37.78426,
+                        "lng": -122.4333,
+                        "metroArea": {
+                            "country": {
+                                "displayName": "US"
+                            },
+                            "displayName": "SF Bay Area",
+                            "id": 26330,
+                            "state": {
+                                "displayName": "CA"
+                            },
+                            "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=57887&utm_medium=partner"
+                        },
+                        "uri": "http://www.songkick.com/venues/6239-fillmore?utm_source=57887&utm_medium=partner"
+                    }
+                },
+                {
+                    "ageRestriction": null,
+                    "displayName": "Nick Murphy fka Chet Faker at The Fillmore (June 14, 2019)",
+                    "flaggedAsEnded": false,
+                    "id": 37562349,
+                    "location": {
+                        "city": "San Francisco, CA, US",
+                        "lat": 37.78426,
+                        "lng": -122.4333
+                    },
+                    "performance": [
+                        {
+                            "artist": {
+                                "displayName": "Nick Murphy fka Chet Faker",
+                                "id": 9109934,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:b6631866-c5aa-4ea8-9c34-5be1266a51ae.json",
+                                        "mbid": "b6631866-c5aa-4ea8-9c34-5be1266a51ae"
+                                    },
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:0fb267e2-7175-4537-a9f2-e835ecc81ff7.json",
+                                        "mbid": "0fb267e2-7175-4537-a9f2-e835ecc81ff7"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/9109934-nick-murphy-fka-chet-faker?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 1,
+                            "displayName": "Nick Murphy fka Chet Faker",
+                            "id": 71381354
+                        }
+                    ],
+                    "popularity": 0.096347,
+                    "start": {
+                        "date": "2019-06-14",
+                        "datetime": "2019-06-14T21:00:00-0700",
+                        "time": "21:00:00"
+                    },
+                    "status": "ok",
+                    "type": "Concert",
+                    "uri": "http://www.songkick.com/concerts/37562349-nick-murphy-fka-chet-faker-at-fillmore?utm_source=57887&utm_medium=partner",
+                    "venue": {
+                        "displayName": "The Fillmore",
+                        "id": 6239,
+                        "lat": 37.78426,
+                        "lng": -122.4333,
+                        "metroArea": {
+                            "country": {
+                                "displayName": "US"
+                            },
+                            "displayName": "SF Bay Area",
+                            "id": 26330,
+                            "state": {
+                                "displayName": "CA"
+                            },
+                            "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=57887&utm_medium=partner"
+                        },
+                        "uri": "http://www.songkick.com/venues/6239-fillmore?utm_source=57887&utm_medium=partner"
+                    }
+                },
+                {
+                    "ageRestriction": null,
+                    "displayName": "Beacon at The Fillmore (June 14, 2019)",
+                    "flaggedAsEnded": false,
+                    "id": 38528619,
+                    "location": {
+                        "city": "San Francisco, CA, US",
+                        "lat": 37.78426,
+                        "lng": -122.4333
+                    },
+                    "performance": [
+                        {
+                            "artist": {
+                                "displayName": "Beacon",
+                                "id": 745376,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:afe299dd-3018-4189-a882-38ef493c259b.json",
+                                        "mbid": "afe299dd-3018-4189-a882-38ef493c259b"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/745376-beacon?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 1,
+                            "displayName": "Beacon",
+                            "id": 73059284
+                        }
+                    ],
+                    "popularity": 0.007369,
+                    "start": {
+                        "date": "2019-06-14",
+                        "datetime": "2019-06-14T21:00:00-0700",
+                        "time": "21:00:00"
+                    },
+                    "status": "ok",
+                    "type": "Concert",
+                    "uri": "http://www.songkick.com/concerts/38528619-beacon-at-fillmore?utm_source=57887&utm_medium=partner",
+                    "venue": {
+                        "displayName": "The Fillmore",
+                        "id": 6239,
+                        "lat": 37.78426,
+                        "lng": -122.4333,
+                        "metroArea": {
+                            "country": {
+                                "displayName": "US"
+                            },
+                            "displayName": "SF Bay Area",
+                            "id": 26330,
+                            "state": {
+                                "displayName": "CA"
+                            },
+                            "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=57887&utm_medium=partner"
+                        },
+                        "uri": "http://www.songkick.com/venues/6239-fillmore?utm_source=57887&utm_medium=partner"
+                    }
+                },
+                {
+                    "ageRestriction": null,
+                    "displayName": "Nick Murphy fka Chet Faker at The Fillmore (June 15, 2019)",
+                    "flaggedAsEnded": false,
+                    "id": 37639514,
+                    "location": {
+                        "city": "San Francisco, CA, US",
+                        "lat": 37.78426,
+                        "lng": -122.4333
+                    },
+                    "performance": [
+                        {
+                            "artist": {
+                                "displayName": "Nick Murphy fka Chet Faker",
+                                "id": 9109934,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:b6631866-c5aa-4ea8-9c34-5be1266a51ae.json",
+                                        "mbid": "b6631866-c5aa-4ea8-9c34-5be1266a51ae"
+                                    },
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:0fb267e2-7175-4537-a9f2-e835ecc81ff7.json",
+                                        "mbid": "0fb267e2-7175-4537-a9f2-e835ecc81ff7"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/9109934-nick-murphy-fka-chet-faker?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 1,
+                            "displayName": "Nick Murphy fka Chet Faker",
+                            "id": 71513869
+                        }
+                    ],
+                    "popularity": 0.096347,
+                    "start": {
+                        "date": "2019-06-15",
+                        "datetime": "2019-06-15T21:00:00-0700",
+                        "time": "21:00:00"
+                    },
+                    "status": "ok",
+                    "type": "Concert",
+                    "uri": "http://www.songkick.com/concerts/37639514-nick-murphy-fka-chet-faker-at-fillmore?utm_source=57887&utm_medium=partner",
+                    "venue": {
+                        "displayName": "The Fillmore",
+                        "id": 6239,
+                        "lat": 37.78426,
+                        "lng": -122.4333,
+                        "metroArea": {
+                            "country": {
+                                "displayName": "US"
+                            },
+                            "displayName": "SF Bay Area",
+                            "id": 26330,
+                            "state": {
+                                "displayName": "CA"
+                            },
+                            "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=57887&utm_medium=partner"
+                        },
+                        "uri": "http://www.songkick.com/venues/6239-fillmore?utm_source=57887&utm_medium=partner"
+                    }
+                },
+                {
+                    "ageRestriction": null,
+                    "displayName": "Beacon at The Fillmore (June 15, 2019)",
+                    "flaggedAsEnded": false,
+                    "id": 38528649,
+                    "location": {
+                        "city": "San Francisco, CA, US",
+                        "lat": 37.78426,
+                        "lng": -122.4333
+                    },
+                    "performance": [
+                        {
+                            "artist": {
+                                "displayName": "Beacon",
+                                "id": 745376,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:afe299dd-3018-4189-a882-38ef493c259b.json",
+                                        "mbid": "afe299dd-3018-4189-a882-38ef493c259b"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/745376-beacon?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 1,
+                            "displayName": "Beacon",
+                            "id": 73059324
+                        }
+                    ],
+                    "popularity": 0.007369,
+                    "start": {
+                        "date": "2019-06-15",
+                        "datetime": "2019-06-15T21:00:00-0700",
+                        "time": "21:00:00"
+                    },
+                    "status": "ok",
+                    "type": "Concert",
+                    "uri": "http://www.songkick.com/concerts/38528649-beacon-at-fillmore?utm_source=57887&utm_medium=partner",
+                    "venue": {
+                        "displayName": "The Fillmore",
+                        "id": 6239,
+                        "lat": 37.78426,
+                        "lng": -122.4333,
+                        "metroArea": {
+                            "country": {
+                                "displayName": "US"
+                            },
+                            "displayName": "SF Bay Area",
+                            "id": 26330,
+                            "state": {
+                                "displayName": "CA"
+                            },
+                            "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=57887&utm_medium=partner"
+                        },
+                        "uri": "http://www.songkick.com/venues/6239-fillmore?utm_source=57887&utm_medium=partner"
+                    }
+                },
+                {
+                    "ageRestriction": null,
+                    "displayName": "Intocable at The Fillmore (June 21, 2019)",
+                    "flaggedAsEnded": false,
+                    "id": 36404399,
+                    "location": {
+                        "city": "San Francisco, CA, US",
+                        "lat": 37.78426,
+                        "lng": -122.4333
+                    },
+                    "performance": [
+                        {
+                            "artist": {
+                                "displayName": "Intocable",
+                                "id": 24963,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:40b032dc-8035-4f2a-b478-eb15ddcf6674.json",
+                                        "mbid": "40b032dc-8035-4f2a-b478-eb15ddcf6674"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/24963-intocable?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 1,
+                            "displayName": "Intocable",
+                            "id": 69402479
+                        }
+                    ],
+                    "popularity": 0.01491,
+                    "start": {
+                        "date": "2019-06-21",
+                        "datetime": "2019-06-21T20:00:00-0700",
+                        "time": "20:00:00"
+                    },
+                    "status": "ok",
+                    "type": "Concert",
+                    "uri": "http://www.songkick.com/concerts/36404399-intocable-at-fillmore?utm_source=57887&utm_medium=partner",
+                    "venue": {
+                        "displayName": "The Fillmore",
+                        "id": 6239,
+                        "lat": 37.78426,
+                        "lng": -122.4333,
+                        "metroArea": {
+                            "country": {
+                                "displayName": "US"
+                            },
+                            "displayName": "SF Bay Area",
+                            "id": 26330,
+                            "state": {
+                                "displayName": "CA"
+                            },
+                            "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=57887&utm_medium=partner"
+                        },
+                        "uri": "http://www.songkick.com/venues/6239-fillmore?utm_source=57887&utm_medium=partner"
+                    }
+                },
+                {
+                    "ageRestriction": null,
+                    "displayName": "PUP with Ratboys and Beach Bunny at The Fillmore (June 22, 2019)",
+                    "flaggedAsEnded": false,
+                    "id": 36653354,
+                    "location": {
+                        "city": "San Francisco, CA, US",
+                        "lat": 37.78426,
+                        "lng": -122.4333
+                    },
+                    "performance": [
+                        {
+                            "artist": {
+                                "displayName": "PUP",
+                                "id": 1118551,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:7c6a545e-7395-4bc5-81b3-199ca46ead04.json",
+                                        "mbid": "7c6a545e-7395-4bc5-81b3-199ca46ead04"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/1118551-pup?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 1,
+                            "displayName": "PUP",
+                            "id": 69820979
+                        },
+                        {
+                            "artist": {
+                                "displayName": "Ratboys",
+                                "id": 5607023,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:423a85de-66ba-4113-abdc-ba2678ee89ba.json",
+                                        "mbid": "423a85de-66ba-4113-abdc-ba2678ee89ba"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/5607023-ratboys?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "support",
+                            "billingIndex": 2,
+                            "displayName": "Ratboys",
+                            "id": 69820984
+                        },
+                        {
+                            "artist": {
+                                "displayName": "Beach Bunny",
+                                "id": 8950714,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:bdb2e504-7372-4f5b-a6c7-d578021c53b5.json",
+                                        "mbid": "bdb2e504-7372-4f5b-a6c7-d578021c53b5"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/8950714-beach-bunny?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "support",
+                            "billingIndex": 3,
+                            "displayName": "Beach Bunny",
+                            "id": 70156289
+                        }
+                    ],
+                    "popularity": 0.007994,
+                    "start": {
+                        "date": "2019-06-22",
+                        "datetime": "2019-06-22T21:00:00-0700",
+                        "time": "21:00:00"
+                    },
+                    "status": "ok",
+                    "type": "Concert",
+                    "uri": "http://www.songkick.com/concerts/36653354-pup-at-fillmore?utm_source=57887&utm_medium=partner",
+                    "venue": {
+                        "displayName": "The Fillmore",
+                        "id": 6239,
+                        "lat": 37.78426,
+                        "lng": -122.4333,
+                        "metroArea": {
+                            "country": {
+                                "displayName": "US"
+                            },
+                            "displayName": "SF Bay Area",
+                            "id": 26330,
+                            "state": {
+                                "displayName": "CA"
+                            },
+                            "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=57887&utm_medium=partner"
+                        },
+                        "uri": "http://www.songkick.com/venues/6239-fillmore?utm_source=57887&utm_medium=partner"
+                    }
+                },
+                {
+                    "ageRestriction": null,
+                    "displayName": "Yeasayer and Oh, Rose! at The Fillmore (June 28, 2019)",
+                    "flaggedAsEnded": false,
+                    "id": 37998134,
+                    "location": {
+                        "city": "San Francisco, CA, US",
+                        "lat": 37.78426,
+                        "lng": -122.4333
+                    },
+                    "performance": [
+                        {
+                            "artist": {
+                                "displayName": "Yeasayer",
+                                "id": 112691,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:3feba7fa-3837-424a-b4f1-0077d217f569.json",
+                                        "mbid": "3feba7fa-3837-424a-b4f1-0077d217f569"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/112691-yeasayer?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 1,
+                            "displayName": "Yeasayer",
+                            "id": 72140624
+                        },
+                        {
+                            "artist": {
+                                "displayName": "Oh, Rose!",
+                                "id": 7926743,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:7782c0aa-a9e6-439c-b8f0-97c57d09c2df.json",
+                                        "mbid": "7782c0aa-a9e6-439c-b8f0-97c57d09c2df"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/7926743-oh-rose?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 2,
+                            "displayName": "Oh, Rose!",
+                            "id": 72140629
+                        }
+                    ],
+                    "popularity": 0.084088,
+                    "start": {
+                        "date": "2019-06-28",
+                        "datetime": "2019-06-28T21:00:00-0700",
+                        "time": "21:00:00"
+                    },
+                    "status": "ok",
+                    "type": "Concert",
+                    "uri": "http://www.songkick.com/concerts/37998134-yeasayer-at-fillmore?utm_source=57887&utm_medium=partner",
+                    "venue": {
+                        "displayName": "The Fillmore",
+                        "id": 6239,
+                        "lat": 37.78426,
+                        "lng": -122.4333,
+                        "metroArea": {
+                            "country": {
+                                "displayName": "US"
+                            },
+                            "displayName": "SF Bay Area",
+                            "id": 26330,
+                            "state": {
+                                "displayName": "CA"
+                            },
+                            "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=57887&utm_medium=partner"
+                        },
+                        "uri": "http://www.songkick.com/venues/6239-fillmore?utm_source=57887&utm_medium=partner"
+                    }
+                },
+                {
+                    "ageRestriction": null,
+                    "displayName": "Jim James at The Fillmore (June 29, 2019)",
+                    "flaggedAsEnded": false,
+                    "id": 38467604,
+                    "location": {
+                        "city": "San Francisco, CA, US",
+                        "lat": 37.78426,
+                        "lng": -122.4333
+                    },
+                    "performance": [
+                        {
+                            "artist": {
+                                "displayName": "Jim James",
+                                "id": 596190,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:b7c4125d-2867-4e29-ba44-b19a69309c68.json",
+                                        "mbid": "b7c4125d-2867-4e29-ba44-b19a69309c68"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/596190-jim-james?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 1,
+                            "displayName": "Jim James",
+                            "id": 72953109
+                        }
+                    ],
+                    "popularity": 0.021828,
+                    "start": {
+                        "date": "2019-06-29",
+                        "datetime": "2019-06-29T21:00:00-0700",
+                        "time": "21:00:00"
+                    },
+                    "status": "ok",
+                    "type": "Concert",
+                    "uri": "http://www.songkick.com/concerts/38467604-jim-james-at-fillmore?utm_source=57887&utm_medium=partner",
+                    "venue": {
+                        "displayName": "The Fillmore",
+                        "id": 6239,
+                        "lat": 37.78426,
+                        "lng": -122.4333,
+                        "metroArea": {
+                            "country": {
+                                "displayName": "US"
+                            },
+                            "displayName": "SF Bay Area",
+                            "id": 26330,
+                            "state": {
+                                "displayName": "CA"
+                            },
+                            "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=57887&utm_medium=partner"
+                        },
+                        "uri": "http://www.songkick.com/venues/6239-fillmore?utm_source=57887&utm_medium=partner"
+                    }
+                },
+                {
+                    "ageRestriction": null,
+                    "displayName": "Jim James at The Fillmore (June 30, 2019)",
+                    "flaggedAsEnded": false,
+                    "id": 38467599,
+                    "location": {
+                        "city": "San Francisco, CA, US",
+                        "lat": 37.78426,
+                        "lng": -122.4333
+                    },
+                    "performance": [
+                        {
+                            "artist": {
+                                "displayName": "Jim James",
+                                "id": 596190,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:b7c4125d-2867-4e29-ba44-b19a69309c68.json",
+                                        "mbid": "b7c4125d-2867-4e29-ba44-b19a69309c68"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/596190-jim-james?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 1,
+                            "displayName": "Jim James",
+                            "id": 72953104
+                        }
+                    ],
+                    "popularity": 0.021828,
+                    "start": {
+                        "date": "2019-06-30",
+                        "datetime": "2019-06-30T20:00:00-0700",
+                        "time": "20:00:00"
+                    },
+                    "status": "ok",
+                    "type": "Concert",
+                    "uri": "http://www.songkick.com/concerts/38467599-jim-james-at-fillmore?utm_source=57887&utm_medium=partner",
+                    "venue": {
+                        "displayName": "The Fillmore",
+                        "id": 6239,
+                        "lat": 37.78426,
+                        "lng": -122.4333,
+                        "metroArea": {
+                            "country": {
+                                "displayName": "US"
+                            },
+                            "displayName": "SF Bay Area",
+                            "id": 26330,
+                            "state": {
+                                "displayName": "CA"
+                            },
+                            "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=57887&utm_medium=partner"
+                        },
+                        "uri": "http://www.songkick.com/venues/6239-fillmore?utm_source=57887&utm_medium=partner"
+                    }
+                },
+                {
+                    "ageRestriction": null,
+                    "displayName": "Jawbox and The Velvet Teen at The Fillmore (July 12, 2019)",
+                    "flaggedAsEnded": false,
+                    "id": 36650819,
+                    "location": {
+                        "city": "San Francisco, CA, US",
+                        "lat": 37.78426,
+                        "lng": -122.4333
+                    },
+                    "performance": [
+                        {
+                            "artist": {
+                                "displayName": "Jawbox",
+                                "id": 1861,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:016fba14-1fc6-4986-86c2-2113ec9b28de.json",
+                                        "mbid": "016fba14-1fc6-4986-86c2-2113ec9b28de"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/1861-jawbox?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 1,
+                            "displayName": "Jawbox",
+                            "id": 69816539
+                        },
+                        {
+                            "artist": {
+                                "displayName": "The Velvet Teen",
+                                "id": 10404,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:675ac715-b084-4d55-bf11-c98eddddccaa.json",
+                                        "mbid": "675ac715-b084-4d55-bf11-c98eddddccaa"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/10404-velvet-teen?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 2,
+                            "displayName": "The Velvet Teen",
+                            "id": 72140584
+                        }
+                    ],
+                    "popularity": 0.002995,
+                    "start": {
+                        "date": "2019-07-12",
+                        "datetime": "2019-07-12T21:00:00-0700",
+                        "time": "21:00:00"
+                    },
+                    "status": "ok",
+                    "type": "Concert",
+                    "uri": "http://www.songkick.com/concerts/36650819-jawbox-at-fillmore?utm_source=57887&utm_medium=partner",
+                    "venue": {
+                        "displayName": "The Fillmore",
+                        "id": 6239,
+                        "lat": 37.78426,
+                        "lng": -122.4333,
+                        "metroArea": {
+                            "country": {
+                                "displayName": "US"
+                            },
+                            "displayName": "SF Bay Area",
+                            "id": 26330,
+                            "state": {
+                                "displayName": "CA"
+                            },
+                            "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=57887&utm_medium=partner"
+                        },
+                        "uri": "http://www.songkick.com/venues/6239-fillmore?utm_source=57887&utm_medium=partner"
+                    }
+                },
+                {
+                    "ageRestriction": null,
+                    "displayName": "Gian Marco at The Fillmore (August 3, 2019)",
+                    "flaggedAsEnded": false,
+                    "id": 38597374,
+                    "location": {
+                        "city": "San Francisco, CA, US",
+                        "lat": 37.78426,
+                        "lng": -122.4333
+                    },
+                    "performance": [
+                        {
+                            "artist": {
+                                "displayName": "Gian Marco",
+                                "id": 21198,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:e1fb2501-3d1f-4e31-9411-761fe6e3ee4e.json",
+                                        "mbid": "e1fb2501-3d1f-4e31-9411-761fe6e3ee4e"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/21198-gian-marco?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 1,
+                            "displayName": "Gian Marco",
+                            "id": 73175804
+                        }
+                    ],
+                    "popularity": 0.002791,
+                    "start": {
+                        "date": "2019-08-03",
+                        "datetime": "2019-08-03T21:00:00-0700",
+                        "time": "21:00:00"
+                    },
+                    "status": "ok",
+                    "type": "Concert",
+                    "uri": "http://www.songkick.com/concerts/38597374-gian-marco-at-fillmore?utm_source=57887&utm_medium=partner",
+                    "venue": {
+                        "displayName": "The Fillmore",
+                        "id": 6239,
+                        "lat": 37.78426,
+                        "lng": -122.4333,
+                        "metroArea": {
+                            "country": {
+                                "displayName": "US"
+                            },
+                            "displayName": "SF Bay Area",
+                            "id": 26330,
+                            "state": {
+                                "displayName": "CA"
+                            },
+                            "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=57887&utm_medium=partner"
+                        },
+                        "uri": "http://www.songkick.com/venues/6239-fillmore?utm_source=57887&utm_medium=partner"
+                    }
+                },
+                {
+                    "ageRestriction": null,
+                    "displayName": "Jason Mraz with Luc & the Lovingtons and The Ace Of Cups at The Fillmore (August 17, 2019)",
+                    "flaggedAsEnded": false,
+                    "id": 38590044,
+                    "location": {
+                        "city": "San Francisco, CA, US",
+                        "lat": 37.78426,
+                        "lng": -122.4333
+                    },
+                    "performance": [
+                        {
+                            "artist": {
+                                "displayName": "Jason Mraz",
+                                "id": 336656,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:82eb8936-7bf6-4577-8320-a2639465206d.json",
+                                        "mbid": "82eb8936-7bf6-4577-8320-a2639465206d"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/336656-jason-mraz?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 1,
+                            "displayName": "Jason Mraz",
+                            "id": 73163434
+                        },
+                        {
+                            "artist": {
+                                "displayName": "Luc & the Lovingtons",
+                                "id": 3372186,
+                                "identifier": [],
+                                "uri": "http://www.songkick.com/artists/3372186-luc-and-the-lovingtons?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "support",
+                            "billingIndex": 2,
+                            "displayName": "Luc & the Lovingtons",
+                            "id": 73163439
+                        },
+                        {
+                            "artist": {
+                                "displayName": "The Ace Of Cups",
+                                "id": 400411,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:0fa707ff-5f85-4ba8-a209-2305b7f3b252.json",
+                                        "mbid": "0fa707ff-5f85-4ba8-a209-2305b7f3b252"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/400411-ace-of-cups?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "support",
+                            "billingIndex": 3,
+                            "displayName": "The Ace Of Cups",
+                            "id": 73163444
+                        }
+                    ],
+                    "popularity": 0.354469,
+                    "start": {
+                        "date": "2019-08-17",
+                        "datetime": "2019-08-17T20:00:00-0700",
+                        "time": "20:00:00"
+                    },
+                    "status": "ok",
+                    "type": "Concert",
+                    "uri": "http://www.songkick.com/concerts/38590044-jason-mraz-at-fillmore?utm_source=57887&utm_medium=partner",
+                    "venue": {
+                        "displayName": "The Fillmore",
+                        "id": 6239,
+                        "lat": 37.78426,
+                        "lng": -122.4333,
+                        "metroArea": {
+                            "country": {
+                                "displayName": "US"
+                            },
+                            "displayName": "SF Bay Area",
+                            "id": 26330,
+                            "state": {
+                                "displayName": "CA"
+                            },
+                            "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=57887&utm_medium=partner"
+                        },
+                        "uri": "http://www.songkick.com/venues/6239-fillmore?utm_source=57887&utm_medium=partner"
+                    }
+                },
+                {
+                    "ageRestriction": null,
+                    "displayName": "The Mountain Goats and Lydia Loveless at The Fillmore (September 12, 2019)",
+                    "flaggedAsEnded": false,
+                    "id": 36869109,
+                    "location": {
+                        "city": "San Francisco, CA, US",
+                        "lat": 37.78426,
+                        "lng": -122.4333
+                    },
+                    "performance": [
+                        {
+                            "artist": {
+                                "displayName": "The Mountain Goats",
+                                "id": 488253,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:9639cd52-c351-4a17-9797-58880e95a7ef.json",
+                                        "mbid": "9639cd52-c351-4a17-9797-58880e95a7ef"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/488253-mountain-goats?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 1,
+                            "displayName": "The Mountain Goats",
+                            "id": 70166594
+                        },
+                        {
+                            "artist": {
+                                "displayName": "Lydia Loveless",
+                                "id": 876239,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:c306218f-6818-40ce-97ce-7cadd3d5213f.json",
+                                        "mbid": "c306218f-6818-40ce-97ce-7cadd3d5213f"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/876239-lydia-loveless?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 2,
+                            "displayName": "Lydia Loveless",
+                            "id": 70554519
+                        }
+                    ],
+                    "popularity": 0.037504,
+                    "start": {
+                        "date": "2019-09-12",
+                        "datetime": "2019-09-12T20:00:00-0700",
+                        "time": "20:00:00"
+                    },
+                    "status": "ok",
+                    "type": "Concert",
+                    "uri": "http://www.songkick.com/concerts/36869109-mountain-goats-at-fillmore?utm_source=57887&utm_medium=partner",
+                    "venue": {
+                        "displayName": "The Fillmore",
+                        "id": 6239,
+                        "lat": 37.78426,
+                        "lng": -122.4333,
+                        "metroArea": {
+                            "country": {
+                                "displayName": "US"
+                            },
+                            "displayName": "SF Bay Area",
+                            "id": 26330,
+                            "state": {
+                                "displayName": "CA"
+                            },
+                            "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=57887&utm_medium=partner"
+                        },
+                        "uri": "http://www.songkick.com/venues/6239-fillmore?utm_source=57887&utm_medium=partner"
+                    }
+                },
+                {
+                    "ageRestriction": null,
+                    "displayName": "The Mountain Goats and Lydia Loveless at The Fillmore (September 13, 2019)",
+                    "flaggedAsEnded": false,
+                    "id": 36870279,
+                    "location": {
+                        "city": "San Francisco, CA, US",
+                        "lat": 37.78426,
+                        "lng": -122.4333
+                    },
+                    "performance": [
+                        {
+                            "artist": {
+                                "displayName": "The Mountain Goats",
+                                "id": 488253,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:9639cd52-c351-4a17-9797-58880e95a7ef.json",
+                                        "mbid": "9639cd52-c351-4a17-9797-58880e95a7ef"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/488253-mountain-goats?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 1,
+                            "displayName": "The Mountain Goats",
+                            "id": 70168424
+                        },
+                        {
+                            "artist": {
+                                "displayName": "Lydia Loveless",
+                                "id": 876239,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:c306218f-6818-40ce-97ce-7cadd3d5213f.json",
+                                        "mbid": "c306218f-6818-40ce-97ce-7cadd3d5213f"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/876239-lydia-loveless?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 2,
+                            "displayName": "Lydia Loveless",
+                            "id": 70556274
+                        }
+                    ],
+                    "popularity": 0.037504,
+                    "start": {
+                        "date": "2019-09-13",
+                        "datetime": "2019-09-13T21:00:00-0700",
+                        "time": "21:00:00"
+                    },
+                    "status": "ok",
+                    "type": "Concert",
+                    "uri": "http://www.songkick.com/concerts/36870279-mountain-goats-at-fillmore?utm_source=57887&utm_medium=partner",
+                    "venue": {
+                        "displayName": "The Fillmore",
+                        "id": 6239,
+                        "lat": 37.78426,
+                        "lng": -122.4333,
+                        "metroArea": {
+                            "country": {
+                                "displayName": "US"
+                            },
+                            "displayName": "SF Bay Area",
+                            "id": 26330,
+                            "state": {
+                                "displayName": "CA"
+                            },
+                            "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=57887&utm_medium=partner"
+                        },
+                        "uri": "http://www.songkick.com/venues/6239-fillmore?utm_source=57887&utm_medium=partner"
+                    }
+                },
+                {
+                    "ageRestriction": null,
+                    "displayName": "Elder Island at The Fillmore (September 16, 2019)",
+                    "flaggedAsEnded": false,
+                    "id": 37670129,
+                    "location": {
+                        "city": "San Francisco, CA, US",
+                        "lat": 37.78426,
+                        "lng": -122.4333
+                    },
+                    "performance": [
+                        {
+                            "artist": {
+                                "displayName": "Elder Island",
+                                "id": 7930018,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:c1344d27-2eaf-43e0-a769-9e5285c58866.json",
+                                        "mbid": "c1344d27-2eaf-43e0-a769-9e5285c58866"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/7930018-elder-island?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 1,
+                            "displayName": "Elder Island",
+                            "id": 71564909
+                        }
+                    ],
+                    "popularity": 0.007347,
+                    "start": {
+                        "date": "2019-09-16",
+                        "datetime": "2019-09-16T20:00:00-0700",
+                        "time": "20:00:00"
+                    },
+                    "status": "ok",
+                    "type": "Concert",
+                    "uri": "http://www.songkick.com/concerts/37670129-elder-island-at-fillmore?utm_source=57887&utm_medium=partner",
+                    "venue": {
+                        "displayName": "The Fillmore",
+                        "id": 6239,
+                        "lat": 37.78426,
+                        "lng": -122.4333,
+                        "metroArea": {
+                            "country": {
+                                "displayName": "US"
+                            },
+                            "displayName": "SF Bay Area",
+                            "id": 26330,
+                            "state": {
+                                "displayName": "CA"
+                            },
+                            "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=57887&utm_medium=partner"
+                        },
+                        "uri": "http://www.songkick.com/venues/6239-fillmore?utm_source=57887&utm_medium=partner"
+                    }
+                },
+                {
+                    "ageRestriction": null,
+                    "displayName": "The Paper Kites at The Fillmore (September 19, 2019)",
+                    "flaggedAsEnded": false,
+                    "id": 38049154,
+                    "location": {
+                        "city": "San Francisco, CA, US",
+                        "lat": 37.78426,
+                        "lng": -122.4333
+                    },
+                    "performance": [
+                        {
+                            "artist": {
+                                "displayName": "The Paper Kites",
+                                "id": 3718311,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:a9d1d9b5-968c-486d-8a97-6077885f2ab8.json",
+                                        "mbid": "a9d1d9b5-968c-486d-8a97-6077885f2ab8"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/3718311-paper-kites?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 1,
+                            "displayName": "The Paper Kites",
+                            "id": 72228389
+                        }
+                    ],
+                    "popularity": 0.043928,
+                    "start": {
+                        "date": "2019-09-19",
+                        "datetime": "2019-09-19T20:00:00-0700",
+                        "time": "20:00:00"
+                    },
+                    "status": "ok",
+                    "type": "Concert",
+                    "uri": "http://www.songkick.com/concerts/38049154-paper-kites-at-fillmore?utm_source=57887&utm_medium=partner",
+                    "venue": {
+                        "displayName": "The Fillmore",
+                        "id": 6239,
+                        "lat": 37.78426,
+                        "lng": -122.4333,
+                        "metroArea": {
+                            "country": {
+                                "displayName": "US"
+                            },
+                            "displayName": "SF Bay Area",
+                            "id": 26330,
+                            "state": {
+                                "displayName": "CA"
+                            },
+                            "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=57887&utm_medium=partner"
+                        },
+                        "uri": "http://www.songkick.com/venues/6239-fillmore?utm_source=57887&utm_medium=partner"
+                    }
+                },
+                {
+                    "ageRestriction": null,
+                    "displayName": "Bombay Bicycle Club with Blaenavon at The Fillmore (September 28, 2019)",
+                    "flaggedAsEnded": false,
+                    "id": 38256214,
+                    "location": {
+                        "city": "San Francisco, CA, US",
+                        "lat": 37.78426,
+                        "lng": -122.4333
+                    },
+                    "performance": [
+                        {
+                            "artist": {
+                                "displayName": "Bombay Bicycle Club",
+                                "id": 578704,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:0ae49abe-d6af-44fa-8ab0-b9ace5690e6f.json",
+                                        "mbid": "0ae49abe-d6af-44fa-8ab0-b9ace5690e6f"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/578704-bombay-bicycle-club?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 1,
+                            "displayName": "Bombay Bicycle Club",
+                            "id": 72594669
+                        },
+                        {
+                            "artist": {
+                                "displayName": "Blaenavon",
+                                "id": 5045793,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:6fcabcfc-e595-4de5-b3df-ab4ff5aa587b.json",
+                                        "mbid": "6fcabcfc-e595-4de5-b3df-ab4ff5aa587b"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/5045793-blaenavon?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "support",
+                            "billingIndex": 2,
+                            "displayName": "Blaenavon",
+                            "id": 72594674
+                        }
+                    ],
+                    "popularity": 0.126434,
+                    "start": {
+                        "date": "2019-09-28",
+                        "datetime": "2019-09-28T20:30:00-0700",
+                        "time": "20:30:00"
+                    },
+                    "status": "ok",
+                    "type": "Concert",
+                    "uri": "http://www.songkick.com/concerts/38256214-bombay-bicycle-club-at-fillmore?utm_source=57887&utm_medium=partner",
+                    "venue": {
+                        "displayName": "The Fillmore",
+                        "id": 6239,
+                        "lat": 37.78426,
+                        "lng": -122.4333,
+                        "metroArea": {
+                            "country": {
+                                "displayName": "US"
+                            },
+                            "displayName": "SF Bay Area",
+                            "id": 26330,
+                            "state": {
+                                "displayName": "CA"
+                            },
+                            "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=57887&utm_medium=partner"
+                        },
+                        "uri": "http://www.songkick.com/venues/6239-fillmore?utm_source=57887&utm_medium=partner"
+                    }
+                },
+                {
+                    "ageRestriction": null,
+                    "displayName": "Marc Broussard and Samantha Fish at The Fillmore (September 29, 2019)",
+                    "flaggedAsEnded": false,
+                    "id": 38066194,
+                    "location": {
+                        "city": "San Francisco, CA, US",
+                        "lat": 37.78426,
+                        "lng": -122.4333
+                    },
+                    "performance": [
+                        {
+                            "artist": {
+                                "displayName": "Marc Broussard",
+                                "id": 135964,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:c9584c27-f240-4f0e-8e82-3470111f24be.json",
+                                        "mbid": "c9584c27-f240-4f0e-8e82-3470111f24be"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/135964-marc-broussard?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 1,
+                            "displayName": "Marc Broussard",
+                            "id": 72260294
+                        },
+                        {
+                            "artist": {
+                                "displayName": "Samantha Fish",
+                                "id": 2865936,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:bcf3ad0b-4eae-4c8b-a292-9f4c573aa27a.json",
+                                        "mbid": "bcf3ad0b-4eae-4c8b-a292-9f4c573aa27a"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/2865936-samantha-fish?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 2,
+                            "displayName": "Samantha Fish",
+                            "id": 72260299
+                        }
+                    ],
+                    "popularity": 0.012394,
+                    "start": {
+                        "date": "2019-09-29",
+                        "datetime": "2019-09-29T20:00:00-0700",
+                        "time": "20:00:00"
+                    },
+                    "status": "ok",
+                    "type": "Concert",
+                    "uri": "http://www.songkick.com/concerts/38066194-marc-broussard-at-fillmore?utm_source=57887&utm_medium=partner",
+                    "venue": {
+                        "displayName": "The Fillmore",
+                        "id": 6239,
+                        "lat": 37.78426,
+                        "lng": -122.4333,
+                        "metroArea": {
+                            "country": {
+                                "displayName": "US"
+                            },
+                            "displayName": "SF Bay Area",
+                            "id": 26330,
+                            "state": {
+                                "displayName": "CA"
+                            },
+                            "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=57887&utm_medium=partner"
+                        },
+                        "uri": "http://www.songkick.com/venues/6239-fillmore?utm_source=57887&utm_medium=partner"
+                    }
+                },
+                {
+                    "ageRestriction": null,
+                    "displayName": "The String Cheese Incident at The Fillmore (October 2, 2019)",
+                    "flaggedAsEnded": false,
+                    "id": 38047854,
+                    "location": {
+                        "city": "San Francisco, CA, US",
+                        "lat": 37.78426,
+                        "lng": -122.4333
+                    },
+                    "performance": [
+                        {
+                            "artist": {
+                                "displayName": "The String Cheese Incident",
+                                "id": 182943,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:cff95140-6d57-498a-8834-10eb72865b29.json",
+                                        "mbid": "cff95140-6d57-498a-8834-10eb72865b29"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/182943-string-cheese-incident?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 1,
+                            "displayName": "The String Cheese Incident",
+                            "id": 72226279
+                        }
+                    ],
+                    "popularity": 0.015831,
+                    "start": {
+                        "date": "2019-10-02",
+                        "datetime": "2019-10-02T20:00:00-0700",
+                        "time": "20:00:00"
+                    },
+                    "status": "ok",
+                    "type": "Concert",
+                    "uri": "http://www.songkick.com/concerts/38047854-string-cheese-incident-at-fillmore?utm_source=57887&utm_medium=partner",
+                    "venue": {
+                        "displayName": "The Fillmore",
+                        "id": 6239,
+                        "lat": 37.78426,
+                        "lng": -122.4333,
+                        "metroArea": {
+                            "country": {
+                                "displayName": "US"
+                            },
+                            "displayName": "SF Bay Area",
+                            "id": 26330,
+                            "state": {
+                                "displayName": "CA"
+                            },
+                            "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=57887&utm_medium=partner"
+                        },
+                        "uri": "http://www.songkick.com/venues/6239-fillmore?utm_source=57887&utm_medium=partner"
+                    }
+                },
+                {
+                    "ageRestriction": null,
+                    "displayName": "The String Cheese Incident at The Fillmore (October 3, 2019)",
+                    "flaggedAsEnded": false,
+                    "id": 38048474,
+                    "location": {
+                        "city": "San Francisco, CA, US",
+                        "lat": 37.78426,
+                        "lng": -122.4333
+                    },
+                    "performance": [
+                        {
+                            "artist": {
+                                "displayName": "The String Cheese Incident",
+                                "id": 182943,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:cff95140-6d57-498a-8834-10eb72865b29.json",
+                                        "mbid": "cff95140-6d57-498a-8834-10eb72865b29"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/182943-string-cheese-incident?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 1,
+                            "displayName": "The String Cheese Incident",
+                            "id": 72227244
+                        }
+                    ],
+                    "popularity": 0.015831,
+                    "start": {
+                        "date": "2019-10-03",
+                        "datetime": "2019-10-03T20:00:00-0700",
+                        "time": "20:00:00"
+                    },
+                    "status": "ok",
+                    "type": "Concert",
+                    "uri": "http://www.songkick.com/concerts/38048474-string-cheese-incident-at-fillmore?utm_source=57887&utm_medium=partner",
+                    "venue": {
+                        "displayName": "The Fillmore",
+                        "id": 6239,
+                        "lat": 37.78426,
+                        "lng": -122.4333,
+                        "metroArea": {
+                            "country": {
+                                "displayName": "US"
+                            },
+                            "displayName": "SF Bay Area",
+                            "id": 26330,
+                            "state": {
+                                "displayName": "CA"
+                            },
+                            "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=57887&utm_medium=partner"
+                        },
+                        "uri": "http://www.songkick.com/venues/6239-fillmore?utm_source=57887&utm_medium=partner"
+                    }
+                },
+                {
+                    "ageRestriction": null,
+                    "displayName": "Ingrid Michaelson at The Fillmore (October 9, 2019)",
+                    "flaggedAsEnded": false,
+                    "id": 38608354,
+                    "location": {
+                        "city": "San Francisco, CA, US",
+                        "lat": 37.78426,
+                        "lng": -122.4333
+                    },
+                    "performance": [
+                        {
+                            "artist": {
+                                "displayName": "Ingrid Michaelson",
+                                "id": 19080,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:1fc494a1-9109-4081-a455-2d05bea9d2bf.json",
+                                        "mbid": "1fc494a1-9109-4081-a455-2d05bea9d2bf"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/19080-ingrid-michaelson?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 1,
+                            "displayName": "Ingrid Michaelson",
+                            "id": 73192924
+                        }
+                    ],
+                    "popularity": 0.12401,
+                    "start": {
+                        "date": "2019-10-09",
+                        "datetime": "2019-10-09T20:00:00-0700",
+                        "time": "20:00:00"
+                    },
+                    "status": "ok",
+                    "type": "Concert",
+                    "uri": "http://www.songkick.com/concerts/38608354-ingrid-michaelson-at-fillmore?utm_source=57887&utm_medium=partner",
+                    "venue": {
+                        "displayName": "The Fillmore",
+                        "id": 6239,
+                        "lat": 37.78426,
+                        "lng": -122.4333,
+                        "metroArea": {
+                            "country": {
+                                "displayName": "US"
+                            },
+                            "displayName": "SF Bay Area",
+                            "id": 26330,
+                            "state": {
+                                "displayName": "CA"
+                            },
+                            "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=57887&utm_medium=partner"
+                        },
+                        "uri": "http://www.songkick.com/venues/6239-fillmore?utm_source=57887&utm_medium=partner"
+                    }
+                },
+                {
+                    "ageRestriction": null,
+                    "displayName": "IDLES with Surfbort at The Fillmore (October 10, 2019)",
+                    "flaggedAsEnded": false,
+                    "id": 38321169,
+                    "location": {
+                        "city": "San Francisco, CA, US",
+                        "lat": 37.78426,
+                        "lng": -122.4333
+                    },
+                    "performance": [
+                        {
+                            "artist": {
+                                "displayName": "IDLES",
+                                "id": 1352869,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:b8c45dcf-7499-43f3-8829-687753f3e5c5.json",
+                                        "mbid": "b8c45dcf-7499-43f3-8829-687753f3e5c5"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/1352869-idles?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 1,
+                            "displayName": "IDLES",
+                            "id": 72704354
+                        },
+                        {
+                            "artist": {
+                                "displayName": "Surfbort",
+                                "id": 7927093,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:621ebc19-38e7-4adf-bd6c-e3b87eaf140f.json",
+                                        "mbid": "621ebc19-38e7-4adf-bd6c-e3b87eaf140f"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/7927093-surfbort?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "support",
+                            "billingIndex": 2,
+                            "displayName": "Surfbort",
+                            "id": 72704359
+                        }
+                    ],
+                    "popularity": 0.00895,
+                    "start": {
+                        "date": "2019-10-10",
+                        "datetime": "2019-10-10T20:00:00-0700",
+                        "time": "20:00:00"
+                    },
+                    "status": "ok",
+                    "type": "Concert",
+                    "uri": "http://www.songkick.com/concerts/38321169-idles-at-fillmore?utm_source=57887&utm_medium=partner",
+                    "venue": {
+                        "displayName": "The Fillmore",
+                        "id": 6239,
+                        "lat": 37.78426,
+                        "lng": -122.4333,
+                        "metroArea": {
+                            "country": {
+                                "displayName": "US"
+                            },
+                            "displayName": "SF Bay Area",
+                            "id": 26330,
+                            "state": {
+                                "displayName": "CA"
+                            },
+                            "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=57887&utm_medium=partner"
+                        },
+                        "uri": "http://www.songkick.com/venues/6239-fillmore?utm_source=57887&utm_medium=partner"
+                    }
+                },
+                {
+                    "ageRestriction": null,
+                    "displayName": "Joshua Radin, The Weepies, and Lily Kershaw at The Fillmore (October 13, 2019)",
+                    "flaggedAsEnded": false,
+                    "id": 37972934,
+                    "location": {
+                        "city": "San Francisco, CA, US",
+                        "lat": 37.78426,
+                        "lng": -122.4333
+                    },
+                    "performance": [
+                        {
+                            "artist": {
+                                "displayName": "Joshua Radin",
+                                "id": 360697,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:24762087-34ce-4f65-b743-7d8402cf30dd.json",
+                                        "mbid": "24762087-34ce-4f65-b743-7d8402cf30dd"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/360697-joshua-radin?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 1,
+                            "displayName": "Joshua Radin",
+                            "id": 72097329
+                        },
+                        {
+                            "artist": {
+                                "displayName": "The Weepies",
+                                "id": 330245,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:59d34d63-e209-4f26-8a09-b08d12202082.json",
+                                        "mbid": "59d34d63-e209-4f26-8a09-b08d12202082"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/330245-weepies?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 2,
+                            "displayName": "The Weepies",
+                            "id": 72097334
+                        },
+                        {
+                            "artist": {
+                                "displayName": "Lily Kershaw",
+                                "id": 6920374,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:dea800ff-cf03-4b68-8f08-c89bed666fec.json",
+                                        "mbid": "dea800ff-cf03-4b68-8f08-c89bed666fec"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/6920374-lily-kershaw?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 3,
+                            "displayName": "Lily Kershaw",
+                            "id": 72097339
+                        }
+                    ],
+                    "popularity": 0.06375,
+                    "start": {
+                        "date": "2019-10-13",
+                        "datetime": "2019-10-13T20:00:00-0700",
+                        "time": "20:00:00"
+                    },
+                    "status": "ok",
+                    "type": "Concert",
+                    "uri": "http://www.songkick.com/concerts/37972934-joshua-radin-at-fillmore?utm_source=57887&utm_medium=partner",
+                    "venue": {
+                        "displayName": "The Fillmore",
+                        "id": 6239,
+                        "lat": 37.78426,
+                        "lng": -122.4333,
+                        "metroArea": {
+                            "country": {
+                                "displayName": "US"
+                            },
+                            "displayName": "SF Bay Area",
+                            "id": 26330,
+                            "state": {
+                                "displayName": "CA"
+                            },
+                            "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=57887&utm_medium=partner"
+                        },
+                        "uri": "http://www.songkick.com/venues/6239-fillmore?utm_source=57887&utm_medium=partner"
+                    }
+                },
+                {
+                    "ageRestriction": null,
+                    "displayName": "Devendra Banhart at The Fillmore (October 16, 2019)",
+                    "flaggedAsEnded": false,
+                    "id": 38594949,
+                    "location": {
+                        "city": "San Francisco, CA, US",
+                        "lat": 37.78426,
+                        "lng": -122.4333
+                    },
+                    "performance": [
+                        {
+                            "artist": {
+                                "displayName": "Devendra Banhart",
+                                "id": 408780,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:0110e63e-0a9b-4818-af8e-41e180c20b9a.json",
+                                        "mbid": "0110e63e-0a9b-4818-af8e-41e180c20b9a"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/408780-devendra-banhart?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 1,
+                            "displayName": "Devendra Banhart",
+                            "id": 73171234
+                        }
+                    ],
+                    "popularity": 0.070537,
+                    "start": {
+                        "date": "2019-10-16",
+                        "datetime": "2019-10-16T19:00:00-0700",
+                        "time": "19:00:00"
+                    },
+                    "status": "ok",
+                    "type": "Concert",
+                    "uri": "http://www.songkick.com/concerts/38594949-devendra-banhart-at-fillmore?utm_source=57887&utm_medium=partner",
+                    "venue": {
+                        "displayName": "The Fillmore",
+                        "id": 6239,
+                        "lat": 37.78426,
+                        "lng": -122.4333,
+                        "metroArea": {
+                            "country": {
+                                "displayName": "US"
+                            },
+                            "displayName": "SF Bay Area",
+                            "id": 26330,
+                            "state": {
+                                "displayName": "CA"
+                            },
+                            "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=57887&utm_medium=partner"
+                        },
+                        "uri": "http://www.songkick.com/venues/6239-fillmore?utm_source=57887&utm_medium=partner"
+                    }
+                },
+                {
+                    "ageRestriction": null,
+                    "displayName": "Stereolab and Wand at The Fillmore (October 17, 2019)",
+                    "flaggedAsEnded": false,
+                    "id": 37384474,
+                    "location": {
+                        "city": "San Francisco, CA, US",
+                        "lat": 37.78426,
+                        "lng": -122.4333
+                    },
+                    "performance": [
+                        {
+                            "artist": {
+                                "displayName": "Stereolab",
+                                "id": 308922,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:f1df0431-9250-4ec8-95d8-f19ce7cf7fb6.json",
+                                        "mbid": "f1df0431-9250-4ec8-95d8-f19ce7cf7fb6"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/308922-stereolab?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 1,
+                            "displayName": "Stereolab",
+                            "id": 71054909
+                        },
+                        {
+                            "artist": {
+                                "displayName": "Wand",
+                                "id": 1754679,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:55e84f42-4d6a-4c42-a305-100545fa8535.json",
+                                        "mbid": "55e84f42-4d6a-4c42-a305-100545fa8535"
+                                    },
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:5fb902cc-ae0a-4b4b-a6b2-0581a41e7a66.json",
+                                        "mbid": "5fb902cc-ae0a-4b4b-a6b2-0581a41e7a66"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/1754679-wand?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 2,
+                            "displayName": "Wand",
+                            "id": 73045084
+                        }
+                    ],
+                    "popularity": 0.025175,
+                    "start": {
+                        "date": "2019-10-17",
+                        "datetime": "2019-10-17T20:00:00-0700",
+                        "time": "20:00:00"
+                    },
+                    "status": "ok",
+                    "type": "Concert",
+                    "uri": "http://www.songkick.com/concerts/37384474-stereolab-at-fillmore?utm_source=57887&utm_medium=partner",
+                    "venue": {
+                        "displayName": "The Fillmore",
+                        "id": 6239,
+                        "lat": 37.78426,
+                        "lng": -122.4333,
+                        "metroArea": {
+                            "country": {
+                                "displayName": "US"
+                            },
+                            "displayName": "SF Bay Area",
+                            "id": 26330,
+                            "state": {
+                                "displayName": "CA"
+                            },
+                            "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=57887&utm_medium=partner"
+                        },
+                        "uri": "http://www.songkick.com/venues/6239-fillmore?utm_source=57887&utm_medium=partner"
+                    }
+                },
+                {
+                    "ageRestriction": null,
+                    "displayName": "Stereolab and BRONZE at The Fillmore (October 18, 2019)",
+                    "flaggedAsEnded": false,
+                    "id": 37302689,
+                    "location": {
+                        "city": "San Francisco, CA, US",
+                        "lat": 37.78426,
+                        "lng": -122.4333
+                    },
+                    "performance": [
+                        {
+                            "artist": {
+                                "displayName": "Stereolab",
+                                "id": 308922,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:f1df0431-9250-4ec8-95d8-f19ce7cf7fb6.json",
+                                        "mbid": "f1df0431-9250-4ec8-95d8-f19ce7cf7fb6"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/308922-stereolab?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 1,
+                            "displayName": "Stereolab",
+                            "id": 70915144
+                        },
+                        {
+                            "artist": {
+                                "displayName": "BRONZE",
+                                "id": 476521,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:151b59bf-52b9-4a59-b254-4da8c6daa505.json",
+                                        "mbid": "151b59bf-52b9-4a59-b254-4da8c6daa505"
+                                    },
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:476a8707-2325-476d-ad74-41d75fa3eb63.json",
+                                        "mbid": "476a8707-2325-476d-ad74-41d75fa3eb63"
+                                    },
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:969f1bc1-1fb3-47ba-8388-bafc0ccedf51.json",
+                                        "mbid": "969f1bc1-1fb3-47ba-8388-bafc0ccedf51"
+                                    },
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:04e43097-04b9-4a5d-ad07-33fefe8958a4.json",
+                                        "mbid": "04e43097-04b9-4a5d-ad07-33fefe8958a4"
+                                    },
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:df0618e7-5ac7-4e31-a6b4-c86a4ba15c8d.json",
+                                        "mbid": "df0618e7-5ac7-4e31-a6b4-c86a4ba15c8d"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/476521-bronze?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 2,
+                            "displayName": "BRONZE",
+                            "id": 73062119
+                        }
+                    ],
+                    "popularity": 0.02519,
+                    "start": {
+                        "date": "2019-10-18",
+                        "datetime": "2019-10-18T21:00:00-0700",
+                        "time": "21:00:00"
+                    },
+                    "status": "ok",
+                    "type": "Concert",
+                    "uri": "http://www.songkick.com/concerts/37302689-stereolab-at-fillmore?utm_source=57887&utm_medium=partner",
+                    "venue": {
+                        "displayName": "The Fillmore",
+                        "id": 6239,
+                        "lat": 37.78426,
+                        "lng": -122.4333,
+                        "metroArea": {
+                            "country": {
+                                "displayName": "US"
+                            },
+                            "displayName": "SF Bay Area",
+                            "id": 26330,
+                            "state": {
+                                "displayName": "CA"
+                            },
+                            "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=57887&utm_medium=partner"
+                        },
+                        "uri": "http://www.songkick.com/venues/6239-fillmore?utm_source=57887&utm_medium=partner"
+                    }
+                },
+                {
+                    "ageRestriction": null,
+                    "displayName": "Stereolab and Mia Doi Todd at The Fillmore (October 19, 2019)",
+                    "flaggedAsEnded": false,
+                    "id": 37301049,
+                    "location": {
+                        "city": "San Francisco, CA, US",
+                        "lat": 37.78426,
+                        "lng": -122.4333
+                    },
+                    "performance": [
+                        {
+                            "artist": {
+                                "displayName": "Stereolab",
+                                "id": 308922,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:f1df0431-9250-4ec8-95d8-f19ce7cf7fb6.json",
+                                        "mbid": "f1df0431-9250-4ec8-95d8-f19ce7cf7fb6"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/308922-stereolab?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 1,
+                            "displayName": "Stereolab",
+                            "id": 70912264
+                        },
+                        {
+                            "artist": {
+                                "displayName": "Mia Doi Todd",
+                                "id": 336811,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:22212d7d-0816-4564-a7fd-1ec849a03380.json",
+                                        "mbid": "22212d7d-0816-4564-a7fd-1ec849a03380"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/336811-mia-doi-todd?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 2,
+                            "displayName": "Mia Doi Todd",
+                            "id": 73052709
+                        }
+                    ],
+                    "popularity": 0.025175,
+                    "start": {
+                        "date": "2019-10-19",
+                        "datetime": "2019-10-19T21:00:00-0700",
+                        "time": "21:00:00"
+                    },
+                    "status": "ok",
+                    "type": "Concert",
+                    "uri": "http://www.songkick.com/concerts/37301049-stereolab-at-fillmore?utm_source=57887&utm_medium=partner",
+                    "venue": {
+                        "displayName": "The Fillmore",
+                        "id": 6239,
+                        "lat": 37.78426,
+                        "lng": -122.4333,
+                        "metroArea": {
+                            "country": {
+                                "displayName": "US"
+                            },
+                            "displayName": "SF Bay Area",
+                            "id": 26330,
+                            "state": {
+                                "displayName": "CA"
+                            },
+                            "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=57887&utm_medium=partner"
+                        },
+                        "uri": "http://www.songkick.com/venues/6239-fillmore?utm_source=57887&utm_medium=partner"
+                    }
+                },
+                {
+                    "ageRestriction": null,
+                    "displayName": "Dirty Dozen Brass Band, Ivan Neville, Walter \"Wolfman\" Washington, Ian Neville, and 1 more\u2026 at The Fillmore (October 26, 2019)",
+                    "flaggedAsEnded": false,
+                    "id": 38408484,
+                    "location": {
+                        "city": "San Francisco, CA, US",
+                        "lat": 37.78426,
+                        "lng": -122.4333
+                    },
+                    "performance": [
+                        {
+                            "artist": {
+                                "displayName": "Dirty Dozen Brass Band",
+                                "id": 69190,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:29bdc1d0-dc34-4f5d-9c22-8b2d66421f49.json",
+                                        "mbid": "29bdc1d0-dc34-4f5d-9c22-8b2d66421f49"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/69190-dirty-dozen-brass-band?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 1,
+                            "displayName": "Dirty Dozen Brass Band",
+                            "id": 72851829
+                        },
+                        {
+                            "artist": {
+                                "displayName": "Ivan Neville",
+                                "id": 517040,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:5ddbb875-2458-403f-9f7e-1d472d2f8c4b.json",
+                                        "mbid": "5ddbb875-2458-403f-9f7e-1d472d2f8c4b"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/517040-ivan-neville?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 2,
+                            "displayName": "Ivan Neville",
+                            "id": 72851834
+                        },
+                        {
+                            "artist": {
+                                "displayName": "Walter \"Wolfman\" Washington",
+                                "id": 530176,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:3e5cfcf1-4bd5-4b2e-9649-904a010b5659.json",
+                                        "mbid": "3e5cfcf1-4bd5-4b2e-9649-904a010b5659"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/530176-walter-wolfman-washington?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 3,
+                            "displayName": "Walter \"Wolfman\" Washington",
+                            "id": 72851839
+                        },
+                        {
+                            "artist": {
+                                "displayName": "Ian Neville",
+                                "id": 2349401,
+                                "identifier": [],
+                                "uri": "http://www.songkick.com/artists/2349401-ian-neville?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 4,
+                            "displayName": "Ian Neville",
+                            "id": 72851844
+                        },
+                        {
+                            "artist": {
+                                "displayName": "Big Chief Monk Boudreaux and the Mardi Gras Indians",
+                                "id": 3847371,
+                                "identifier": [],
+                                "uri": "http://www.songkick.com/artists/3847371-big-chief-monk-boudreaux-and-the-mardi-gras-indians?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 5,
+                            "displayName": "Big Chief Monk Boudreaux and the Mardi Gras Indians",
+                            "id": 72851849
+                        }
+                    ],
+                    "popularity": 0.005839,
+                    "start": {
+                        "date": "2019-10-26",
+                        "datetime": "2019-10-26T21:00:00-0700",
+                        "time": "21:00:00"
+                    },
+                    "status": "ok",
+                    "type": "Concert",
+                    "uri": "http://www.songkick.com/concerts/38408484-dirty-dozen-brass-band-at-fillmore?utm_source=57887&utm_medium=partner",
+                    "venue": {
+                        "displayName": "The Fillmore",
+                        "id": 6239,
+                        "lat": 37.78426,
+                        "lng": -122.4333,
+                        "metroArea": {
+                            "country": {
+                                "displayName": "US"
+                            },
+                            "displayName": "SF Bay Area",
+                            "id": 26330,
+                            "state": {
+                                "displayName": "CA"
+                            },
+                            "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=57887&utm_medium=partner"
+                        },
+                        "uri": "http://www.songkick.com/venues/6239-fillmore?utm_source=57887&utm_medium=partner"
+                    }
+                },
+                {
+                    "ageRestriction": null,
+                    "displayName": "Big Thief with Palehound at The Fillmore (October 28, 2019)",
+                    "flaggedAsEnded": false,
+                    "id": 37377884,
+                    "location": {
+                        "city": "San Francisco, CA, US",
+                        "lat": 37.78426,
+                        "lng": -122.4333
+                    },
+                    "performance": [
+                        {
+                            "artist": {
+                                "displayName": "Big Thief",
+                                "id": 8434308,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:9f81247f-7f57-42f3-a8ba-75bef554e591.json",
+                                        "mbid": "9f81247f-7f57-42f3-a8ba-75bef554e591"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/8434308-big-thief?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 1,
+                            "displayName": "Big Thief",
+                            "id": 71044359
+                        },
+                        {
+                            "artist": {
+                                "displayName": "Palehound",
+                                "id": 7133229,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:d0d25805-3446-49eb-bf6b-b4fa821c3a7f.json",
+                                        "mbid": "d0d25805-3446-49eb-bf6b-b4fa821c3a7f"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/7133229-palehound?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "support",
+                            "billingIndex": 2,
+                            "displayName": "Palehound",
+                            "id": 71416779
+                        }
+                    ],
+                    "popularity": 0.01914,
+                    "start": {
+                        "date": "2019-10-28",
+                        "datetime": "2019-10-28T20:00:00-0700",
+                        "time": "20:00:00"
+                    },
+                    "status": "ok",
+                    "type": "Concert",
+                    "uri": "http://www.songkick.com/concerts/37377884-big-thief-at-fillmore?utm_source=57887&utm_medium=partner",
+                    "venue": {
+                        "displayName": "The Fillmore",
+                        "id": 6239,
+                        "lat": 37.78426,
+                        "lng": -122.4333,
+                        "metroArea": {
+                            "country": {
+                                "displayName": "US"
+                            },
+                            "displayName": "SF Bay Area",
+                            "id": 26330,
+                            "state": {
+                                "displayName": "CA"
+                            },
+                            "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=57887&utm_medium=partner"
+                        },
+                        "uri": "http://www.songkick.com/venues/6239-fillmore?utm_source=57887&utm_medium=partner"
+                    }
+                },
+                {
+                    "ageRestriction": null,
+                    "displayName": "Cat Power and Zsela at The Fillmore (November 1, 2019)",
+                    "flaggedAsEnded": false,
+                    "id": 38330854,
+                    "location": {
+                        "city": "San Francisco, CA, US",
+                        "lat": 37.78426,
+                        "lng": -122.4333
+                    },
+                    "performance": [
+                        {
+                            "artist": {
+                                "displayName": "Cat Power",
+                                "id": 460150,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:05755bf1-380c-487f-983f-d1a02401fa28.json",
+                                        "mbid": "05755bf1-380c-487f-983f-d1a02401fa28"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/460150-cat-power?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 1,
+                            "displayName": "Cat Power",
+                            "id": 72720459
+                        },
+                        {
+                            "artist": {
+                                "displayName": "Zsela",
+                                "id": 9293244,
+                                "identifier": [],
+                                "uri": "http://www.songkick.com/artists/9293244-zsela?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 2,
+                            "displayName": "Zsela",
+                            "id": 73110159
+                        }
+                    ],
+                    "popularity": 0.11902,
+                    "start": {
+                        "date": "2019-11-01",
+                        "datetime": "2019-11-01T21:00:00-0700",
+                        "time": "21:00:00"
+                    },
+                    "status": "ok",
+                    "type": "Concert",
+                    "uri": "http://www.songkick.com/concerts/38330854-cat-power-at-fillmore?utm_source=57887&utm_medium=partner",
+                    "venue": {
+                        "displayName": "The Fillmore",
+                        "id": 6239,
+                        "lat": 37.78426,
+                        "lng": -122.4333,
+                        "metroArea": {
+                            "country": {
+                                "displayName": "US"
+                            },
+                            "displayName": "SF Bay Area",
+                            "id": 26330,
+                            "state": {
+                                "displayName": "CA"
+                            },
+                            "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=57887&utm_medium=partner"
+                        },
+                        "uri": "http://www.songkick.com/venues/6239-fillmore?utm_source=57887&utm_medium=partner"
+                    }
+                },
+                {
+                    "ageRestriction": null,
+                    "displayName": "Last Dinosaurs and Born Ruffians at The Fillmore (November 2, 2019)",
+                    "flaggedAsEnded": false,
+                    "id": 38378929,
+                    "location": {
+                        "city": "San Francisco, CA, US",
+                        "lat": 37.78426,
+                        "lng": -122.4333
+                    },
+                    "performance": [
+                        {
+                            "artist": {
+                                "displayName": "Last Dinosaurs",
+                                "id": 1815039,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:546b225b-162d-4b81-b649-032616736db7.json",
+                                        "mbid": "546b225b-162d-4b81-b649-032616736db7"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/1815039-last-dinosaurs?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 1,
+                            "displayName": "Last Dinosaurs",
+                            "id": 72802554
+                        },
+                        {
+                            "artist": {
+                                "displayName": "Born Ruffians",
+                                "id": 22233,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:87e58b4e-465c-4d8b-bfee-9c49ca8b7358.json",
+                                        "mbid": "87e58b4e-465c-4d8b-bfee-9c49ca8b7358"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/22233-born-ruffians?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 2,
+                            "displayName": "Born Ruffians",
+                            "id": 72802559
+                        }
+                    ],
+                    "popularity": 0.024456,
+                    "start": {
+                        "date": "2019-11-02",
+                        "datetime": "2019-11-02T20:00:00-0700",
+                        "time": "20:00:00"
+                    },
+                    "status": "ok",
+                    "type": "Concert",
+                    "uri": "http://www.songkick.com/concerts/38378929-last-dinosaurs-at-fillmore?utm_source=57887&utm_medium=partner",
+                    "venue": {
+                        "displayName": "The Fillmore",
+                        "id": 6239,
+                        "lat": 37.78426,
+                        "lng": -122.4333,
+                        "metroArea": {
+                            "country": {
+                                "displayName": "US"
+                            },
+                            "displayName": "SF Bay Area",
+                            "id": 26330,
+                            "state": {
+                                "displayName": "CA"
+                            },
+                            "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=57887&utm_medium=partner"
+                        },
+                        "uri": "http://www.songkick.com/venues/6239-fillmore?utm_source=57887&utm_medium=partner"
+                    }
+                },
+                {
+                    "ageRestriction": null,
+                    "displayName": "Built to Spill, Slam Dunk, and The Hand at The Fillmore (November 5, 2019)",
+                    "flaggedAsEnded": false,
+                    "id": 37592654,
+                    "location": {
+                        "city": "San Francisco, CA, US",
+                        "lat": 37.78426,
+                        "lng": -122.4333
+                    },
+                    "performance": [
+                        {
+                            "artist": {
+                                "displayName": "Built to Spill",
+                                "id": 67100,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:3ac482b8-1494-4071-a0e9-f192f9d2c2b0.json",
+                                        "mbid": "3ac482b8-1494-4071-a0e9-f192f9d2c2b0"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/67100-built-to-spill?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 1,
+                            "displayName": "Built to Spill",
+                            "id": 71432269
+                        },
+                        {
+                            "artist": {
+                                "displayName": "Slam Dunk",
+                                "id": 440575,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:8092fdb5-9734-4c52-a66a-737345b4a6f2.json",
+                                        "mbid": "8092fdb5-9734-4c52-a66a-737345b4a6f2"
+                                    },
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:8cb87471-343b-4740-9cf2-b9499537e895.json",
+                                        "mbid": "8cb87471-343b-4740-9cf2-b9499537e895"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/440575-slam-dunk?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 2,
+                            "displayName": "Slam Dunk",
+                            "id": 72377069
+                        },
+                        {
+                            "artist": {
+                                "displayName": "The Hand",
+                                "id": 241545,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:d6cfd35b-feb4-4b03-ba13-b05e8fc7e61a.json",
+                                        "mbid": "d6cfd35b-feb4-4b03-ba13-b05e8fc7e61a"
+                                    },
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:0b464274-1176-4421-b160-927dae506e98.json",
+                                        "mbid": "0b464274-1176-4421-b160-927dae506e98"
+                                    },
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:5c912efa-7bac-429c-b785-6cbcf44ef8f5.json",
+                                        "mbid": "5c912efa-7bac-429c-b785-6cbcf44ef8f5"
+                                    },
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:b12eefd0-cdb6-47b9-b575-fbaf4127e432.json",
+                                        "mbid": "b12eefd0-cdb6-47b9-b575-fbaf4127e432"
+                                    },
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:16b59516-19f9-47a2-ab25-185e14ca1119.json",
+                                        "mbid": "16b59516-19f9-47a2-ab25-185e14ca1119"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/241545-hand?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 3,
+                            "displayName": "The Hand",
+                            "id": 72399799
+                        }
+                    ],
+                    "popularity": 0.038453,
+                    "start": {
+                        "date": "2019-11-05",
+                        "datetime": "2019-11-05T20:00:00-0800",
+                        "time": "20:00:00"
+                    },
+                    "status": "ok",
+                    "type": "Concert",
+                    "uri": "http://www.songkick.com/concerts/37592654-built-to-spill-at-fillmore?utm_source=57887&utm_medium=partner",
+                    "venue": {
+                        "displayName": "The Fillmore",
+                        "id": 6239,
+                        "lat": 37.78426,
+                        "lng": -122.4333,
+                        "metroArea": {
+                            "country": {
+                                "displayName": "US"
+                            },
+                            "displayName": "SF Bay Area",
+                            "id": 26330,
+                            "state": {
+                                "displayName": "CA"
+                            },
+                            "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=57887&utm_medium=partner"
+                        },
+                        "uri": "http://www.songkick.com/venues/6239-fillmore?utm_source=57887&utm_medium=partner"
+                    }
+                },
+                {
+                    "ageRestriction": null,
+                    "displayName": "Built to Spill, Slam Dunk, and The Hand at The Fillmore (November 6, 2019)",
+                    "flaggedAsEnded": false,
+                    "id": 37592314,
+                    "location": {
+                        "city": "San Francisco, CA, US",
+                        "lat": 37.78426,
+                        "lng": -122.4333
+                    },
+                    "performance": [
+                        {
+                            "artist": {
+                                "displayName": "Built to Spill",
+                                "id": 67100,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:3ac482b8-1494-4071-a0e9-f192f9d2c2b0.json",
+                                        "mbid": "3ac482b8-1494-4071-a0e9-f192f9d2c2b0"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/67100-built-to-spill?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 1,
+                            "displayName": "Built to Spill",
+                            "id": 71431719
+                        },
+                        {
+                            "artist": {
+                                "displayName": "Slam Dunk",
+                                "id": 440575,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:8092fdb5-9734-4c52-a66a-737345b4a6f2.json",
+                                        "mbid": "8092fdb5-9734-4c52-a66a-737345b4a6f2"
+                                    },
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:8cb87471-343b-4740-9cf2-b9499537e895.json",
+                                        "mbid": "8cb87471-343b-4740-9cf2-b9499537e895"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/440575-slam-dunk?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 2,
+                            "displayName": "Slam Dunk",
+                            "id": 72375399
+                        },
+                        {
+                            "artist": {
+                                "displayName": "The Hand",
+                                "id": 241545,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:d6cfd35b-feb4-4b03-ba13-b05e8fc7e61a.json",
+                                        "mbid": "d6cfd35b-feb4-4b03-ba13-b05e8fc7e61a"
+                                    },
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:0b464274-1176-4421-b160-927dae506e98.json",
+                                        "mbid": "0b464274-1176-4421-b160-927dae506e98"
+                                    },
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:5c912efa-7bac-429c-b785-6cbcf44ef8f5.json",
+                                        "mbid": "5c912efa-7bac-429c-b785-6cbcf44ef8f5"
+                                    },
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:b12eefd0-cdb6-47b9-b575-fbaf4127e432.json",
+                                        "mbid": "b12eefd0-cdb6-47b9-b575-fbaf4127e432"
+                                    },
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:16b59516-19f9-47a2-ab25-185e14ca1119.json",
+                                        "mbid": "16b59516-19f9-47a2-ab25-185e14ca1119"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/241545-hand?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 3,
+                            "displayName": "The Hand",
+                            "id": 72399094
+                        }
+                    ],
+                    "popularity": 0.038453,
+                    "start": {
+                        "date": "2019-11-06",
+                        "datetime": "2019-11-06T20:00:00-0800",
+                        "time": "20:00:00"
+                    },
+                    "status": "ok",
+                    "type": "Concert",
+                    "uri": "http://www.songkick.com/concerts/37592314-built-to-spill-at-fillmore?utm_source=57887&utm_medium=partner",
+                    "venue": {
+                        "displayName": "The Fillmore",
+                        "id": 6239,
+                        "lat": 37.78426,
+                        "lng": -122.4333,
+                        "metroArea": {
+                            "country": {
+                                "displayName": "US"
+                            },
+                            "displayName": "SF Bay Area",
+                            "id": 26330,
+                            "state": {
+                                "displayName": "CA"
+                            },
+                            "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=57887&utm_medium=partner"
+                        },
+                        "uri": "http://www.songkick.com/venues/6239-fillmore?utm_source=57887&utm_medium=partner"
+                    }
+                },
+                {
+                    "ageRestriction": null,
+                    "displayName": "Peter Hook & The Light at The Fillmore (November 8, 2019)",
+                    "flaggedAsEnded": false,
+                    "id": 35927634,
+                    "location": {
+                        "city": "San Francisco, CA, US",
+                        "lat": 37.78426,
+                        "lng": -122.4333
+                    },
+                    "performance": [
+                        {
+                            "artist": {
+                                "displayName": "Peter Hook & The Light",
+                                "id": 4154881,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:9c03bf5d-9b0d-474f-942a-5a28bde04ef0.json",
+                                        "mbid": "9c03bf5d-9b0d-474f-942a-5a28bde04ef0"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/4154881-peter-hook-and-the-light?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 1,
+                            "displayName": "Peter Hook & The Light",
+                            "id": 68620434
+                        }
+                    ],
+                    "popularity": 0.003448,
+                    "start": {
+                        "date": "2019-11-08",
+                        "datetime": "2019-11-08T21:00:00-0800",
+                        "time": "21:00:00"
+                    },
+                    "status": "ok",
+                    "type": "Concert",
+                    "uri": "http://www.songkick.com/concerts/35927634-peter-hook-and-the-light-at-fillmore?utm_source=57887&utm_medium=partner",
+                    "venue": {
+                        "displayName": "The Fillmore",
+                        "id": 6239,
+                        "lat": 37.78426,
+                        "lng": -122.4333,
+                        "metroArea": {
+                            "country": {
+                                "displayName": "US"
+                            },
+                            "displayName": "SF Bay Area",
+                            "id": 26330,
+                            "state": {
+                                "displayName": "CA"
+                            },
+                            "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=57887&utm_medium=partner"
+                        },
+                        "uri": "http://www.songkick.com/venues/6239-fillmore?utm_source=57887&utm_medium=partner"
+                    }
+                },
+                {
+                    "ageRestriction": null,
+                    "displayName": "Our Last Night at The Fillmore (November 10, 2019)",
+                    "flaggedAsEnded": false,
+                    "id": 38431959,
+                    "location": {
+                        "city": "San Francisco, CA, US",
+                        "lat": 37.78426,
+                        "lng": -122.4333
+                    },
+                    "performance": [
+                        {
+                            "artist": {
+                                "displayName": "Our Last Night",
+                                "id": 365740,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:5466b02a-4465-4e87-b372-584cd5f97bff.json",
+                                        "mbid": "5466b02a-4465-4e87-b372-584cd5f97bff"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/365740-our-last-night?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 1,
+                            "displayName": "Our Last Night",
+                            "id": 72892239
+                        }
+                    ],
+                    "popularity": 0.027765,
+                    "start": {
+                        "date": "2019-11-10",
+                        "datetime": "2019-11-10T20:00:00-0800",
+                        "time": "20:00:00"
+                    },
+                    "status": "ok",
+                    "type": "Concert",
+                    "uri": "http://www.songkick.com/concerts/38431959-our-last-night-at-fillmore?utm_source=57887&utm_medium=partner",
+                    "venue": {
+                        "displayName": "The Fillmore",
+                        "id": 6239,
+                        "lat": 37.78426,
+                        "lng": -122.4333,
+                        "metroArea": {
+                            "country": {
+                                "displayName": "US"
+                            },
+                            "displayName": "SF Bay Area",
+                            "id": 26330,
+                            "state": {
+                                "displayName": "CA"
+                            },
+                            "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=57887&utm_medium=partner"
+                        },
+                        "uri": "http://www.songkick.com/venues/6239-fillmore?utm_source=57887&utm_medium=partner"
+                    }
+                },
+                {
+                    "ageRestriction": null,
+                    "displayName": "Matt Maeson at The Fillmore (November 11, 2019)",
+                    "flaggedAsEnded": false,
+                    "id": 38454104,
+                    "location": {
+                        "city": "San Francisco, CA, US",
+                        "lat": 37.78426,
+                        "lng": -122.4333
+                    },
+                    "performance": [
+                        {
+                            "artist": {
+                                "displayName": "Matt Maeson",
+                                "id": 9126884,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:e7bbb0c4-d3cf-4523-b5e1-a01d69d5bc83.json",
+                                        "mbid": "e7bbb0c4-d3cf-4523-b5e1-a01d69d5bc83"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/9126884-matt-maeson?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 1,
+                            "displayName": "Matt Maeson",
+                            "id": 72929759
+                        }
+                    ],
+                    "popularity": 0.010751,
+                    "start": {
+                        "date": "2019-11-11",
+                        "datetime": "2019-11-11T20:00:00-0800",
+                        "time": "20:00:00"
+                    },
+                    "status": "ok",
+                    "type": "Concert",
+                    "uri": "http://www.songkick.com/concerts/38454104-matt-maeson-at-fillmore?utm_source=57887&utm_medium=partner",
+                    "venue": {
+                        "displayName": "The Fillmore",
+                        "id": 6239,
+                        "lat": 37.78426,
+                        "lng": -122.4333,
+                        "metroArea": {
+                            "country": {
+                                "displayName": "US"
+                            },
+                            "displayName": "SF Bay Area",
+                            "id": 26330,
+                            "state": {
+                                "displayName": "CA"
+                            },
+                            "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=57887&utm_medium=partner"
+                        },
+                        "uri": "http://www.songkick.com/venues/6239-fillmore?utm_source=57887&utm_medium=partner"
+                    }
+                },
+                {
+                    "ageRestriction": null,
+                    "displayName": "Julia Michaels at The Fillmore (November 13, 2019)",
+                    "flaggedAsEnded": false,
+                    "id": 38129689,
+                    "location": {
+                        "city": "San Francisco, CA, US",
+                        "lat": 37.78426,
+                        "lng": -122.4333
+                    },
+                    "performance": [
+                        {
+                            "artist": {
+                                "displayName": "Julia Michaels",
+                                "id": 8872729,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:4757df70-6c3e-46b8-99c0-a68644595c9a.json",
+                                        "mbid": "4757df70-6c3e-46b8-99c0-a68644595c9a"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/8872729-julia-michaels?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 1,
+                            "displayName": "Julia Michaels",
+                            "id": 72371164
+                        }
+                    ],
+                    "popularity": 0.082493,
+                    "start": {
+                        "date": "2019-11-13",
+                        "datetime": "2019-11-13T20:00:00-0800",
+                        "time": "20:00:00"
+                    },
+                    "status": "ok",
+                    "type": "Concert",
+                    "uri": "http://www.songkick.com/concerts/38129689-julia-michaels-at-fillmore?utm_source=57887&utm_medium=partner",
+                    "venue": {
+                        "displayName": "The Fillmore",
+                        "id": 6239,
+                        "lat": 37.78426,
+                        "lng": -122.4333,
+                        "metroArea": {
+                            "country": {
+                                "displayName": "US"
+                            },
+                            "displayName": "SF Bay Area",
+                            "id": 26330,
+                            "state": {
+                                "displayName": "CA"
+                            },
+                            "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=57887&utm_medium=partner"
+                        },
+                        "uri": "http://www.songkick.com/venues/6239-fillmore?utm_source=57887&utm_medium=partner"
+                    }
+                },
+                {
+                    "ageRestriction": null,
+                    "displayName": "Mt. Joy at The Fillmore (November 14, 2019)",
+                    "flaggedAsEnded": false,
+                    "id": 37958569,
+                    "location": {
+                        "city": "San Francisco, CA, US",
+                        "lat": 37.78426,
+                        "lng": -122.4333
+                    },
+                    "performance": [
+                        {
+                            "artist": {
+                                "displayName": "Mt. Joy",
+                                "id": 7239669,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:5bbf0f10-4355-42cb-9d08-6b777a8a300d.json",
+                                        "mbid": "5bbf0f10-4355-42cb-9d08-6b777a8a300d"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/7239669-mt-joy?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 1,
+                            "displayName": "Mt. Joy",
+                            "id": 72073479
+                        }
+                    ],
+                    "popularity": 0.009273,
+                    "start": {
+                        "date": "2019-11-14",
+                        "datetime": null,
+                        "time": null
+                    },
+                    "status": "ok",
+                    "type": "Concert",
+                    "uri": "http://www.songkick.com/concerts/37958569-mt-joy-at-fillmore?utm_source=57887&utm_medium=partner",
+                    "venue": {
+                        "displayName": "The Fillmore",
+                        "id": 6239,
+                        "lat": 37.78426,
+                        "lng": -122.4333,
+                        "metroArea": {
+                            "country": {
+                                "displayName": "US"
+                            },
+                            "displayName": "SF Bay Area",
+                            "id": 26330,
+                            "state": {
+                                "displayName": "CA"
+                            },
+                            "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=57887&utm_medium=partner"
+                        },
+                        "uri": "http://www.songkick.com/venues/6239-fillmore?utm_source=57887&utm_medium=partner"
+                    }
+                },
+                {
+                    "ageRestriction": null,
+                    "displayName": "Mt. Joy at The Fillmore (November 15, 2019)",
+                    "flaggedAsEnded": false,
+                    "id": 37957129,
+                    "location": {
+                        "city": "San Francisco, CA, US",
+                        "lat": 37.78426,
+                        "lng": -122.4333
+                    },
+                    "performance": [
+                        {
+                            "artist": {
+                                "displayName": "Mt. Joy",
+                                "id": 7239669,
+                                "identifier": [
+                                    {
+                                        "href": "http://api.songkick.com/api/3.0/artists/mbid:5bbf0f10-4355-42cb-9d08-6b777a8a300d.json",
+                                        "mbid": "5bbf0f10-4355-42cb-9d08-6b777a8a300d"
+                                    }
+                                ],
+                                "uri": "http://www.songkick.com/artists/7239669-mt-joy?utm_source=57887&utm_medium=partner"
+                            },
+                            "billing": "headline",
+                            "billingIndex": 1,
+                            "displayName": "Mt. Joy",
+                            "id": 72071344
+                        }
+                    ],
+                    "popularity": 0.009273,
+                    "start": {
+                        "date": "2019-11-15",
+                        "datetime": null,
+                        "time": null
+                    },
+                    "status": "ok",
+                    "type": "Concert",
+                    "uri": "http://www.songkick.com/concerts/37957129-mt-joy-at-fillmore?utm_source=57887&utm_medium=partner",
+                    "venue": {
+                        "displayName": "The Fillmore",
+                        "id": 6239,
+                        "lat": 37.78426,
+                        "lng": -122.4333,
+                        "metroArea": {
+                            "country": {
+                                "displayName": "US"
+                            },
+                            "displayName": "SF Bay Area",
+                            "id": 26330,
+                            "state": {
+                                "displayName": "CA"
+                            },
+                            "uri": "http://www.songkick.com/metro_areas/26330-us-sf-bay-area?utm_source=57887&utm_medium=partner"
+                        },
+                        "uri": "http://www.songkick.com/venues/6239-fillmore?utm_source=57887&utm_medium=partner"
+                    }
+                }
+            ]
+        },
+        "status": "ok",
+        "totalEntries": 50
+    }
+}
