@@ -28,13 +28,27 @@ func TestClient(t *testing.T) {
 		t.Skip("no api key")
 	}
 	client := NewClient(key)
-	resp, err := client.GetVenueCalendar(context.Background(), &GetVenueCalendarReq{
-		VenueID: "6239-fillmore",
+
+	t.Run("get-venue-calendar", func(t *testing.T) {
+		resp, err := client.GetVenueCalendar(context.Background(), &GetVenueCalendarReq{
+			VenueID: "6239-fillmore",
+		})
+		if err != nil {
+			t.Fatal(err)
+		}
+		if len(resp.Events) == 0 {
+			t.Errorf("no events found for the fillmore? doubtful")
+		}
 	})
-	if err != nil {
-		t.Fatal(err)
-	}
-	if len(resp.Events) == 0 {
-		t.Errorf("no events found for the fillmore? doubtful")
-	}
+
+	t.Run("get-venue", func(t *testing.T) {
+		id := "6239-fillmore"
+		resp, err := client.GetVenue(context.Background(), &GetVenueReq{
+			VenueID: id,
+		})
+		if err != nil {
+			t.Fatal(err)
+		}
+		t.Log(resp)
+	})
 }
