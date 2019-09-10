@@ -14,4 +14,6 @@ jobs:
       with:
         version: 1.13
 
-    - run: go test -v ./...
+    - run: go test ./...
+      env:
+        SONGKICK_API_KEY: ${{ secrets.SONGKICK_API_KEY }}
