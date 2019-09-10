@@ -51,4 +51,16 @@ func TestClient(t *testing.T) {
 		}
 		t.Log(resp)
 	})
+
+	t.Run("find-venues", func(t *testing.T) {
+		resp, err := client.FindVenues(context.Background(), &FindVenuesReq{
+			Query: "The Fillmore",
+		})
+		if err != nil {
+			t.Fatal(err)
+		}
+		if len(resp.Venues) == 0 {
+			t.Errorf("no venues found for the Fillmore? doubtful")
+		}
+	})
 }
