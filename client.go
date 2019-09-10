@@ -24,8 +24,18 @@ type Artist struct {
 	MusicBrainz []MusicBrainz `json:"indentifier"`
 }
 
-type City struct {
+type Country struct {
 	DisplayName string `json:"displayName"`
+}
+
+type State struct {
+	DisplayName string `json:"displayName"`
+}
+
+type City struct {
+	DisplayName string  `json:"displayName"`
+	Country     Country `json:"country"`
+	State       State   `json:"state"`
 }
 
 type Venue struct {
@@ -33,6 +43,9 @@ type Venue struct {
 	DisplayName string `json:"displayName"`
 	URI         string `json:"uri"`
 	City        City   `json:"city"`
+	Description string `json:"description"`
+	Website     string `json:"website"`
+	Capacity    int    `json:"capacity"`
 }
 
 type Event struct {
