@@ -1,0 +1,19 @@
+name: songkick
+on: [push]
+jobs:
+
+  build:
+    name: Run test suite
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@master
+
+    - name: Set up Go 1.13
+      uses: actions/setup-go@v1
+      with:
+        version: 1.13
+
+    - run: go test ./...
+      env:
+        SONGKICK_API_KEY: ${{ secrets.SONGKICK_API_KEY }}
