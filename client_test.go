@@ -8,7 +8,7 @@ import (
 	"testing"
 )
 
-func TestJSONParsing(t *testing.T) {
+func TestParsing(t *testing.T) {
 	blob, err := ioutil.ReadFile("testdata/calendar.json")
 	if err != nil {
 		t.Fatal(err)
@@ -22,7 +22,7 @@ func TestJSONParsing(t *testing.T) {
 	}
 }
 
-func TestRequest(t *testing.T) {
+func TestClient(t *testing.T) {
 	key := os.Getenv("SONGKICK_API_KEY")
 	if key == "" {
 		t.Skip("no api key")
