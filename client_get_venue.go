@@ -9,7 +9,10 @@ import (
 
 type venueResults struct {
 	ResultsPage struct {
-		Status  string `json:"status"`
+		Status string `json:"status"`
+		Error  struct {
+			Message string `json:"message"`
+		} `json:"error"`
 		Results struct {
 			Venue Venue `json:"venue"`
 		} `json:"results"`
@@ -38,15 +41,14 @@ func (c *APIClient) GetVenue(ctx context.Context, req *GetVenueReq) (*Venue, err
 	if err != nil {
 		return nil, err
 	}
-	if resp.StatusCode != http.StatusOK {
-		return nil, fmt.Errorf("non-status")
-	}
 	defer resp.Body.Close()
-
 	dec := json.NewDecoder(resp.Body)
 	var vr venueResults
 	if err := dec.Decode(&vr); err != nil {
 		return nil, err
+	}
+	if resp.StatusCode != http.StatusOK {
+		return nil, fmt.Errorf("status: %s message: %s code: %d", vr.ResultsPage.Status, vr.ResultsPage.Error.Message, resp.StatusCode)
 	}
 	return &vr.ResultsPage.Results.Venue, nil
 }

@@ -10,6 +10,9 @@ import (
 
 type eventsResults struct {
 	ResultsPage struct {
+		Error struct {
+			Message string `json:"message"`
+		} `json:"error"`
 		Page         int    `json:"page"`
 		PerPage      int    `json:"per_page"`
 		TotalEntries int    `json:"totalEntries"`
@@ -48,14 +51,14 @@ func (c *APIClient) GetVenueCalendar(ctx context.Context, req *GetVenueCalendarR
 	if err != nil {
 		return nil, err
 	}
-	if resp.StatusCode != http.StatusOK {
-		return nil, fmt.Errorf("non-status")
-	}
 	defer resp.Body.Close()
 	dec := json.NewDecoder(resp.Body)
 	var er eventsResults
 	if err := dec.Decode(&er); err != nil {
 		return nil, err
+	}
+	if resp.StatusCode != http.StatusOK {
+		return nil, fmt.Errorf("status: %s message: %s code: %d", er.ResultsPage.Status, er.ResultsPage.Error.Message, resp.StatusCode)
 	}
 	// Check status field
 	events := []Event{}
